@@ -1,43 +1,52 @@
-# Welcome to Abdullah Tariq's GitHub Profile 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Abdullah+Tariq;Aspiring+Developer+coding;Building+amazing+experiences;Always+learning,+always+growing" alt="Typing SVG" />
+</h1>
 
-## 🙋‍♂️ About Me
-Hi, I'm **Abdullah Tariq**, a passionate and innovative developer from **Pakistan 🇵🇰**. My journey in software development combines creativity, technical expertise, and a love for solving real-world problems. With a strong background in React Native, Next.js, and AI/ML, I'm constantly exploring ways to improve and expand my skill set.
+🙋‍♂️ **About Me**
+```python
+class Abdullah:
+    name = "Abdullah Tariq"
+    role = "Student & Aspiring Developer"
+    location = "Pakistan 🇵🇰"
+    languages = ["JavaScript", "HTML", "CSS", "TypeScript", "Python"]
+    learning = ["React", "Next.js", "Web Development"]
+    passion = "Building projects that solve real problems"
+    fun_fact = "I learn by doing, and every line of code gets me closer to where I want to be 🔥"
 
-- 🔭 Currently working on **NetPulse Pro**, a React Native app for networking tools.
-- 🌱 Learning more about **advanced AI applications** and **Spring Boot backend development.**
-- ⚡ Fun fact: I represented Pakistan at the **Belt and Road Initiative Conference in Shenzhen, China**.
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together.")
 
----
+me = Abdullah()
+me.say_hi()
+```
 
-## 🛠️ Tech Stack & Skills
-**Languages:** JavaScript, TypeScript, Python
+🎓 I'm a passionate aspiring developer who loves coding, problem-solving, and continuously expanding my skills. Every day is a new opportunity to learn and grow!
 
-**Frameworks/Tools:**
-- **Web Development:** Next.js, React
-- **Mobile Development:** React Native
-- **AI/ML:** KNIME, Open-Meteo
-- **Deployment:** Vercel, Fly.dev
-- **Collaboration Tools:** Git, GitHub
+🛠️ **Tech Stack & Skills**
+- **Languages:** JavaScript, HTML, CSS, TypeScript, Python
+- **Tools & Platforms:** Git, GitHub, VS Code
 
----
+🚀 **Featured Projects**
+📌 Check out my pinned repositories below for my latest work!
 
-## 🚀 Featured Projects
-### **NetPulse Pro** [🚧 In Development]
-A React Native app offering a comprehensive set of networking tools. This app makes managing and troubleshooting networks a breeze. Stay tuned for updates!
+- 🔥 [**LibraryManagementSystem25**](https://github.com/AbdullahTariq25/LibraryManagementSystem25) - Comprehensive system for library operations.
+- 🔥 [**portfolio**](https://github.com/AbdullahTariq25/portfolio) - My personal portfolio showcasing my journey and projects.
+- 🔥 [**Translater**](https://github.com/AbdullahTariq25/Translater) - A useful and adaptable translation tool.
+- 🔥 [**react-certifecate**](https://github.com/AbdullahTariq25/react-certifecate) - Check out my work using React and JavaScript.
 
-### **IPGeolocation.io** [📱Published]
-This mobile app provides over 19 IP tools and is available on the Play Store. Built on React Native to support cross-platform functionality.
+📊 **GitHub Stats**
 
-### **Network Tools Hub** [✅ Deployed]
-A Next.js web dashboard featuring 230+ advanced tools. Hosted on Vercel.
+<p align="center">
+  <a href="https://github.com/AbdullahTariq25" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahTariq25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AbdullahTariq25" align="right">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahTariq25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
----
+🌐 **Connect With Me**
+- [LinkedIn](https://www.linkedin.com/in/abdullah-bin-tariq-19b331243)
+- [Email](mailto:Abdullah.tariq.7654@gmail.com)
 
-## 🌐 Let's Connect
-- LinkedIn: [Abdullah Tariq](https://www.linkedin.com/in/abdullah-bin-tariq-25at)
-- GitHub: [AbdullahTariq25](https://github.com/AbdullahTariq25)
-- Email: [abdullah.tariq.7654@gmail.com](mailto:abdullah.tariq.7654@gmail.com)
-
----
-
-*"Never stop learning because life never stops teaching."* 🚀
+💬 *"Every expert was once a beginner. Keep coding, keep growing!"* 🚀
