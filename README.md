@@ -3,76 +3,79 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot+Specialist;AI+Integration+Expert;Building+Next.js+%26+React+Native+Apps;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;AI+Integration+%26+Data+Annotation+Expert;Java,+Spring+Boot,+%26+React+Native+Specialist;Building+Scalable+Next.js+Web+Apps;Sino-Pak+Scholar+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <a href="https://abdullah25.fly.dev/"><img src="https://img.shields.io/badge/Portfolio-abdullah25.fly.dev-00F0FF?style=for-the-badge&logo=Web&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdullah-bin-tariq-19b331243"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Abdullah.tariq.7654@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:abdullah.tariq.7654@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://play.google.com/store/apps/developer?id=Abdullah+Tariq"><img src="https://img.shields.io/badge/Play_Store-Published_Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
 </div>
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
-## 🧑‍💻 About Me
+## 🧑‍💻 `whoami`
 
 ```python
 class Abdullah:
     def __init__(self):
         self.role = "Full-Stack Engineer & AI Developer"
-        self.base = ["Lahore, PK 🇵🇰", "Shenzhen, CN 🇨🇳"]
-        
-    def get_experience(self):
-        return [
-            "AI Data Annotation @ Shenzhen-Hong Kong Smart Hub",
-            "Software Engineer @ JFreaks Software Solutions"
-        ]
-        
-    def tech_stack(self):
-        return {
-            "frontend": ["Next.js", "React", "Vue.js"],
-            "mobile": ["React Native"],
-            "backend": ["Java", "Spring Boot", "Node.js", "MongoDB"],
-            "data_formats": ["XML", "JSON"],
-            "ai_integration": ["Llama 3.3", "Groq API", "Claude"]
-        }
+        self.location = "Lahore, PK 🇵🇰 | Shenzhen, CN 🇨🇳"
+        self.languages = ["Urdu", "English", "Chinese (HSK 3)"]
 
+    def academics(self):
+        return {
+            "BSCS": "Virtual University Pakistan",
+            "Diploma": "Shenzhen Institute of Information Technology"
+        }
+        
+    def current_mission(self):
+        return "Integrating LLMs (Llama 3.3, Groq) into production SaaS apps and maintaining 200+ network tools."
+        
 me = Abdullah()
+print(me.current_mission())
 ```
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
-## 🏆 Top Achievements
-- ☕ **Backend Mastery**: Specialist in the **Java** ecosystem, robust enterprise-grade **Spring Boot** architectures, and XML configurations.
-- 🚀 **Published Developer**: Launched production apps like **IPGeolocation.io** on the Google Play Store.
-- 🧠 **AI Specialist**: Built highly sophisticated platforms like **DevReviewer** and **PrepWithAI** using advanced LLMs.
-- 🎓 **International Academics**: Dual Diploma in Software Tech with experience at Shenzhen Institute of Info Tech (HSK 3).
-- 🏅 **Certifications**: Google Prompting Essentials, Ethical Hacker (Cisco), CISSP, Claude Code In Action, and more.
+## 🏆 Top Highlights
+- 🎖️ **Sino-Pak Scholar**: Represented 52 countries at the Belt & Road Conference in Shenzhen, China.
+- 🚀 **Published App Developer**: Launched **IPGeolocation.io** (19+ tools) on the Google Play Store using React Native.
+- ☕ **Backend Specialist**: Deep expertise in the **Java** ecosystem, robust **Spring Boot** microservices, and XML configs.
+- 🧠 **AI Innovator**: Developed comprehensive testing algorithms matching **Llama 3.3** against production codebases via the Groq API.
+- 🥇 **Professional Certifications**: Google Prompting Essentials, Ethical Hacker (Cisco), Python Essentials.
 
 </td>
 </tr>
 </table>
 
-### 🛠️ Core Technologies & Tools
+### 💼 Experience Journey
+- 🤖 **AI Data Annotation** at *Shenzhen-Hong Kong Smart Hub (Remote)* — Ensuring high-quality data accuracy for training advanced ML models. *(Feb 2026 - Present)*
+- 💻 **Software Engineering Intern** at *JFreaks Software Solutions* — Led the deployment of React Native mobile apps, built full-stack SSR apps with Next.js, and launched the massive 230+ utility **Network Tools Hub**. *(Feb 2024 - Feb 2026)*
+- 🔬 **Research Assistant** at *Shenzhen Institute of Information Technology (China)* — Developed reusable Vue.js/TS UI components and managed engineering research technical documentation. *(Nov 2024 - Jun 2025)*
+
+### 🛠️ Core Technologies & Architectures
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,react,nextjs,vue,tailwind,nodejs,mongodb,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,vue,tailwind,nodejs,mongodb,mysql,postgres,spring,docker,git,github,vscode,linux" />
+  <br>
+  <i><b>Proficient in:</b> RESTful APIs, Android (Java/XML), React Native Expo, LLM APIs, and Agile CI/CD.</i>
 </p>
 
-### 🚀 Highlight Projects
+### 🚀 Flagship Projects
 
-| Project | Description | Tech Stack | Status |
+| Project | Description | Primary Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[DevReviewer](https://github.com/AbdullahTariq25)** | State-of-the-art AI-powered code review SaaS, auto-generating unit tests & debugging | `Llama 3.3`, `Next.js`, `Groq` | 🌟 Active |
-| **[IPGeolocation.io App](https://play.google.com/store/apps/details)** | Fully published cross-platform mobile suite featuring 19 dynamic network & IP tools | `React Native` | 🚀 Published |
-| **[Network Tools Hub](https://network-tools-hub.vercel.app)** | Massive global web utility suite containing over 230 networking and web tools | `Next.js`, `Tailwind` | 🌐 Live |
-| **[Anonymous Feedback](#)** | Secure platform for collecting honest opinions with AI-generated prompt replies | `Next.js`, `MongoDB` | 🌟 Active |
+| **[PrepWithAI](#)** | AI-powered mock interview system providing real-time voice, video, and analytics feedback via LLMs. | `Next.js`, `Llama 3.3`, `Groq API` | 🌟 Active | 
+| **[DevReviewer](https://github.com/AbdullahTariq25)** | Cutting-edge SaaS platform for automated bug detection, test generation, and multi-file complexity analysis. | `Next.js`, `MongoDB`, `Monaco` | 🌟 Active |
+| **[IPGeolocation.io App](https://play.google.com/store/apps/details)** | Production-ready cross-platform mobile suite featuring highly responsive UI and API integrations. | `React Native`, `Expo`, `TS` | 🚀 Released |
+| **[Network Tools Hub](https://network-tools-hub.vercel.app)** | High-traffic developer platform encompassing 230+ utilities optimized for global SEO scaling. | `Next.js`, `Tailwind` | 🌐 Live |
 
-### 📈 GitHub Stats & Streaks
+### 📈 GitHub Growth & Activity
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdullahTariq25&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
@@ -85,11 +88,6 @@ me = Abdullah()
   </table>
   <br>
   <img src="https://komarev.com/ghpvc/?username=AbdullahTariq25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <br>
-  💬 *"Logic will get you from A to B. Imagination will take you everywhere."* — Albert Einstein
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
