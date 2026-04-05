@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+Integration+Expert;Building+Next.js+%26+React+Native+Apps;Lifelong+Learner+and+Builder;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot+Specialist;AI+Integration+Expert;Building+Next.js+%26+React+Native+Apps;Let's+build+something+amazing!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -37,7 +37,8 @@ class Abdullah:
         return {
             "frontend": ["Next.js", "React", "Vue.js"],
             "mobile": ["React Native"],
-            "backend": ["Spring Boot", "Node.js", "MongoDB"],
+            "backend": ["Java", "Spring Boot", "Node.js", "MongoDB"],
+            "data_formats": ["XML", "JSON"],
             "ai_integration": ["Llama 3.3", "Groq API", "Claude"]
         }
 
@@ -47,6 +48,7 @@ me = Abdullah()
 <td width="45%">
 
 ## 🏆 Top Achievements
+- ☕ **Backend Mastery**: Specialist in the **Java** ecosystem, robust enterprise-grade **Spring Boot** architectures, and XML configurations.
 - 🚀 **Published Developer**: Launched production apps like **IPGeolocation.io** on the Google Play Store.
 - 🧠 **AI Specialist**: Built highly sophisticated platforms like **DevReviewer** and **PrepWithAI** using advanced LLMs.
 - 🎓 **International Academics**: Dual Diploma in Software Tech with experience at Shenzhen Institute of Info Tech (HSK 3).
@@ -58,7 +60,7 @@ me = Abdullah()
 
 ### 🛠️ Core Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,tailwind,nodejs,mongodb,spring,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,react,nextjs,vue,tailwind,nodejs,mongodb,git,github,vscode,linux" />
 </p>
 
 ### 🚀 Highlight Projects
