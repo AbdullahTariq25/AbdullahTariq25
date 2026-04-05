@@ -1,52 +1,93 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abdullah%20Tariq&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Abdullah+Tariq;Aspiring+Developer+coding;Building+amazing+experiences;Always+learning,+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+Integration+Expert;Building+Next.js+%26+React+Native+Apps;Lifelong+Learner+and+Builder;Let's+build+something+amazing!" alt="Typing SVG" />
 </h1>
 
-🙋‍♂️ **About Me**
+<div align="center">
+  <a href="https://abdullah25.fly.dev/"><img src="https://img.shields.io/badge/Portfolio-abdullah25.fly.dev-00F0FF?style=for-the-badge&logo=Web&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-bin-tariq-19b331243"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Abdullah.tariq.7654@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=Abdullah+Tariq"><img src="https://img.shields.io/badge/Play_Store-Published_Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="55%">
+
+## 🧑‍💻 About Me
+
 ```python
 class Abdullah:
-    name = "Abdullah Tariq"
-    role = "Student & Aspiring Developer"
-    location = "Pakistan 🇵🇰"
-    languages = ["JavaScript", "HTML", "CSS", "TypeScript", "Python"]
-    learning = ["React", "Next.js", "Web Development"]
-    passion = "Building projects that solve real problems"
-    fun_fact = "I learn by doing, and every line of code gets me closer to where I want to be 🔥"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together.")
+    def __init__(self):
+        self.role = "Full-Stack Engineer & AI Developer"
+        self.base = ["Lahore, PK 🇵🇰", "Shenzhen, CN 🇨🇳"]
+        
+    def get_experience(self):
+        return [
+            "AI Data Annotation @ Shenzhen-Hong Kong Smart Hub",
+            "Software Engineer @ JFreaks Software Solutions"
+        ]
+        
+    def tech_stack(self):
+        return {
+            "frontend": ["Next.js", "React", "Vue.js"],
+            "mobile": ["React Native"],
+            "backend": ["Spring Boot", "Node.js", "MongoDB"],
+            "ai_integration": ["Llama 3.3", "Groq API", "Claude"]
+        }
 
 me = Abdullah()
-me.say_hi()
 ```
+</td>
+<td width="45%">
 
-🎓 I'm a passionate aspiring developer who loves coding, problem-solving, and continuously expanding my skills. Every day is a new opportunity to learn and grow!
+## 🏆 Top Achievements
+- 🚀 **Published Developer**: Launched production apps like **IPGeolocation.io** on the Google Play Store.
+- 🧠 **AI Specialist**: Built highly sophisticated platforms like **DevReviewer** and **PrepWithAI** using advanced LLMs.
+- 🎓 **International Academics**: Dual Diploma in Software Tech with experience at Shenzhen Institute of Info Tech (HSK 3).
+- 🏅 **Certifications**: Google Prompting Essentials, Ethical Hacker (Cisco), CISSP, Claude Code In Action, and more.
 
-🛠️ **Tech Stack & Skills**
-- **Languages:** JavaScript, HTML, CSS, TypeScript, Python
-- **Tools & Platforms:** Git, GitHub, VS Code
+</td>
+</tr>
+</table>
 
-🚀 **Featured Projects**
-📌 Check out my pinned repositories below for my latest work!
-
-- 🔥 [**LibraryManagementSystem25**](https://github.com/AbdullahTariq25/LibraryManagementSystem25) - Comprehensive system for library operations.
-- 🔥 [**portfolio**](https://github.com/AbdullahTariq25/portfolio) - My personal portfolio showcasing my journey and projects.
-- 🔥 [**Translater**](https://github.com/AbdullahTariq25/Translater) - A useful and adaptable translation tool.
-- 🔥 [**react-certifecate**](https://github.com/AbdullahTariq25/react-certifecate) - Check out my work using React and JavaScript.
-
-📊 **GitHub Stats**
-
+### 🛠️ Core Technologies & Tools
 <p align="center">
-  <a href="https://github.com/AbdullahTariq25" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahTariq25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/AbdullahTariq25" align="right">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahTariq25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,tailwind,nodejs,mongodb,spring,git,github,vscode,linux" />
 </p>
 
-🌐 **Connect With Me**
-- [LinkedIn](https://www.linkedin.com/in/abdullah-bin-tariq-19b331243)
-- [Email](mailto:Abdullah.tariq.7654@gmail.com)
+### 🚀 Highlight Projects
 
-💬 *"Every expert was once a beginner. Keep coding, keep growing!"* 🚀
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[DevReviewer](https://github.com/AbdullahTariq25)** | State-of-the-art AI-powered code review SaaS, auto-generating unit tests & debugging | `Llama 3.3`, `Next.js`, `Groq` | 🌟 Active |
+| **[IPGeolocation.io App](https://play.google.com/store/apps/details)** | Fully published cross-platform mobile suite featuring 19 dynamic network & IP tools | `React Native` | 🚀 Published |
+| **[Network Tools Hub](https://network-tools-hub.vercel.app)** | Massive global web utility suite containing over 230 networking and web tools | `Next.js`, `Tailwind` | 🌐 Live |
+| **[Anonymous Feedback](#)** | Secure platform for collecting honest opinions with AI-generated prompt replies | `Next.js`, `MongoDB` | 🌟 Active |
+
+### 📈 GitHub Stats & Streaks
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahTariq25&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  <br><br>
+  <table align="center">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AbdullahTariq25&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahTariq25&theme=onedark&hide_border=true" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=AbdullahTariq25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <br>
+  💬 *"Logic will get you from A to B. Imagination will take you everywhere."* — Albert Einstein
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
