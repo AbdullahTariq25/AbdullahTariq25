@@ -17,31 +17,33 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ## 🧑‍💻 `whoami`
 
 ```python
 class Abdullah:
     def __init__(self):
-        self.role = "Full-Stack Engineer & AI Developer"
-        self.location = "Lahore, PK 🇵🇰 | Shenzhen, CN 🇨🇳"
-        self.languages = ["Urdu", "English", "Chinese (HSK 3)"]
+        self.role = "Full-Stack & AI Engineer"
+        self.location = "Lahore, PK | Shenzhen, CN"
+        self.langs = ["Urdu", "English", "Chinese"]
 
     def academics(self):
         return {
-            "BSCS": "Virtual University Pakistan",
-            "Diploma": "Shenzhen Institute of Information Technology"
+            "BSCS": "Virtual University PK",
+            "Diploma": "SZIIT China"
         }
         
     def current_mission(self):
-        return "Integrating LLMs (Llama 3.3, Groq) into production SaaS apps and maintaining 200+ network tools."
+        return (
+            "Integrating LLMs into production SaaS "
+            "apps and building mobile ecosystems."
+        )
         
 me = Abdullah()
-print(me.current_mission())
 ```
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ## 🏆 Top Highlights
 - 🎖️ **Sino-Pak Scholar**: Represented 52 countries at the Belt & Road Conference in Shenzhen, China.
