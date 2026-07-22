@@ -1,0 +1,95 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="54" y1="20" x2="1146" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11161D"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="62" y1="0" x2="1128" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78A898"/>
+      <stop offset="0.72" stop-color="#78A898" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#C3A46E" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#30363D" stroke-opacity="0.32"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="26" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="388" rx="25" stroke="#30363D"/>
+  <rect width="1200" height="390" rx="26" fill="url(#grid)" opacity="0.54"/>
+
+  <text x="52" y="38" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">ENGINEERING DOSSIER / PROFILE 2026</text>
+  <text x="1148" y="38" text-anchor="end" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.6">LAHORE · PAKISTAN</text>
+  <path d="M52 55H1148" stroke="#30363D"/>
+
+  <g transform="translate(58 84)">
+    <text x="0" y="50" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="47" font-weight="760" letter-spacing="0.4">Abdullah Tariq</text>
+    <text x="2" y="84" fill="#C3A46E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2.2">SOFTWARE DEVELOPER</text>
+    <path d="M2 110H486" stroke="url(#accentLine)" stroke-width="2"/>
+    <text x="2" y="147" fill="#B2BAC2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Product engineering across web, mobile, AI, backend,</text>
+    <text x="2" y="174" fill="#B2BAC2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">and television platforms.</text>
+
+    <g transform="translate(2 207)">
+      <rect width="328" height="38" rx="19" fill="#151B23" stroke="#78A898" stroke-opacity="0.52"/>
+      <circle cx="21" cy="19" r="5" fill="#78A898"/>
+      <text x="38" y="24" fill="#D7E5DF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.2">OPEN TO ENGINEERING OPPORTUNITIES</text>
+    </g>
+  </g>
+
+  <g transform="translate(585 86)" opacity="0.88">
+    <rect x="0" y="0" width="92" height="92" rx="18" fill="#151B23" stroke="#30363D" filter="url(#softShadow)"/>
+    <path d="M27 63L46 27L65 63H55L51 54H41L37 63H27ZM44 47H49L46 38L44 47Z" fill="#78A898"/>
+    <path d="M29 70H63" stroke="#C3A46E" stroke-width="2" stroke-linecap="round"/>
+    <path d="M46 -20V0M46 92V112M-20 46H0M92 46H112" stroke="#30363D"/>
+    <circle cx="46" cy="46" r="62" stroke="#30363D" stroke-dasharray="3 8"/>
+  </g>
+
+  <g transform="translate(742 78)">
+    <rect width="406" height="244" rx="18" fill="#151B23" fill-opacity="0.92" stroke="#30363D" filter="url(#softShadow)"/>
+    <text x="24" y="32" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="2">CAPABILITY INDEX</text>
+    <path d="M24 48H382" stroke="#30363D"/>
+
+    <g transform="translate(24 68)">
+      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#78A898" stroke-opacity="0.72"/>
+      <text x="13" y="18" text-anchor="middle" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">01</text>
+      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Product Systems</text>
+      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Next.js · React · APIs · SaaS</text>
+    </g>
+
+    <g transform="translate(24 112)">
+      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#78A898" stroke-opacity="0.72"/>
+      <text x="13" y="18" text-anchor="middle" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">02</text>
+      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Mobile Platforms</text>
+      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">React Native · Expo · Android</text>
+    </g>
+
+    <g transform="translate(24 156)">
+      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#C3A46E" stroke-opacity="0.72"/>
+      <text x="13" y="18" text-anchor="middle" fill="#C3A46E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">03</text>
+      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AI Integration</text>
+      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Groq · Llama · Gemini · Evaluation</text>
+    </g>
+
+    <g transform="translate(24 200)">
+      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#C3A46E" stroke-opacity="0.72"/>
+      <text x="13" y="18" text-anchor="middle" fill="#C3A46E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">04</text>
+      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Television Engineering</text>
+      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Tizen · webOS · Android TV</text>
+    </g>
+  </g>
+
+  <g transform="translate(52 342)">
+    <path d="M0 0H1096" stroke="#30363D"/>
+    <text x="0" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">118 TOOLS</text>
+    <circle cx="126" cy="22" r="2" fill="#C3A46E"/>
+    <text x="146" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">294+ TEMPLATES</text>
+    <circle cx="298" cy="22" r="2" fill="#C3A46E"/>
+    <text x="318" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">230+ UTILITIES</text>
+    <circle cx="456" cy="22" r="2" fill="#C3A46E"/>
+    <text x="476" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">BSCS IN PROGRESS</text>
+    <text x="1096" y="26" text-anchor="end" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.2">BUILD · VERIFY · SHIP</text>
+  </g>
+</svg>
