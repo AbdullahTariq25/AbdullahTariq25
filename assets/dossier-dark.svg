@@ -1,95 +1,189 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="background" x1="54" y1="20" x2="1146" y2="370" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#11161D"/>
-      <stop offset="1" stop-color="#0D1117"/>
+    <linearGradient id="bg" x1="55" y1="20" x2="1145" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#131A21"/>
+      <stop offset="0.58" stop-color="#0E141A"/>
+      <stop offset="1" stop-color="#090D12"/>
     </linearGradient>
-    <linearGradient id="accentLine" x1="62" y1="0" x2="1128" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#78A898"/>
-      <stop offset="0.72" stop-color="#78A898" stop-opacity="0.34"/>
-      <stop offset="1" stop-color="#C3A46E" stop-opacity="0"/>
+    <radialGradient id="light" cx="0" cy="0" r="1" gradientTransform="translate(903 188) rotate(125) scale(370 290)">
+      <stop stop-color="#6F9184" stop-opacity="0.22"/>
+      <stop offset="0.48" stop-color="#6F9184" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#6F9184" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1A232C" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#10171E" stop-opacity="0.86"/>
     </linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" stroke="#30363D" stroke-opacity="0.32"/>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#343E47"/>
+      <stop offset="0.5" stop-color="#1C252D"/>
+      <stop offset="1" stop-color="#0B1015"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111A21"/>
+      <stop offset="1" stop-color="#0B1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#73988A"/>
+      <stop offset="1" stop-color="#B99A64"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#313A43" stroke-opacity="0.24"/>
     </pattern>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000000" flood-opacity="0.28"/>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000000" flood-opacity="0.48"/>
     </filter>
+    <filter id="smallShadow" x="-40%" y="-40%" width="180%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+    <clipPath id="laptopScreen"><rect x="661" y="92" width="368" height="220" rx="8"/></clipPath>
+    <clipPath id="phoneScreen"><rect x="1015" y="186" width="91" height="184" rx="15"/></clipPath>
   </defs>
 
-  <rect width="1200" height="390" rx="26" fill="url(#background)"/>
-  <rect x="1" y="1" width="1198" height="388" rx="25" stroke="#30363D"/>
-  <rect width="1200" height="390" rx="26" fill="url(#grid)" opacity="0.54"/>
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="28" fill="url(#grid)" opacity="0.48"/>
+  <rect width="1200" height="430" rx="28" fill="url(#light)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="27" stroke="#36404A"/>
 
-  <text x="52" y="38" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">ENGINEERING DOSSIER / PROFILE 2026</text>
-  <text x="1148" y="38" text-anchor="end" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.6">LAHORE · PAKISTAN</text>
-  <path d="M52 55H1148" stroke="#30363D"/>
+  <text x="48" y="38" fill="#759A8C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.1">ENGINEERING PROFILE / 2026</text>
+  <text x="1152" y="38" text-anchor="end" fill="#78838D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.4">LAHORE · PAKISTAN</text>
+  <path d="M48 55H1152" stroke="#303943"/>
 
-  <g transform="translate(58 84)">
-    <text x="0" y="50" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="47" font-weight="760" letter-spacing="0.4">Abdullah Tariq</text>
-    <text x="2" y="84" fill="#C3A46E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2.2">SOFTWARE DEVELOPER</text>
-    <path d="M2 110H486" stroke="url(#accentLine)" stroke-width="2"/>
-    <text x="2" y="147" fill="#B2BAC2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Product engineering across web, mobile, AI, backend,</text>
-    <text x="2" y="174" fill="#B2BAC2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">and television platforms.</text>
+  <!-- identity column -->
+  <g transform="translate(54 82)">
+    <text x="0" y="48" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="760">Abdullah Tariq</text>
+    <text x="2" y="82" fill="#C1A16B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2.4">SOFTWARE DEVELOPER</text>
+    <path d="M2 104H470" stroke="url(#accent)" stroke-width="2"/>
+    <text x="2" y="142" fill="#B8C0C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Building production software across web, mobile,</text>
+    <text x="2" y="170" fill="#B8C0C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">AI, backend, and television platforms.</text>
 
-    <g transform="translate(2 207)">
-      <rect width="328" height="38" rx="19" fill="#151B23" stroke="#78A898" stroke-opacity="0.52"/>
-      <circle cx="21" cy="19" r="5" fill="#78A898"/>
-      <text x="38" y="24" fill="#D7E5DF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.2">OPEN TO ENGINEERING OPPORTUNITIES</text>
+    <g transform="translate(2 204)">
+      <rect width="322" height="38" rx="19" fill="#171F27" stroke="#759A8C" stroke-opacity="0.58"/>
+      <circle cx="21" cy="19" r="5" fill="#759A8C"/>
+      <circle cx="21" cy="19" r="10" fill="#759A8C" fill-opacity="0.1"/>
+      <text x="39" y="24" fill="#DDE8E3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.15">OPEN TO ENGINEERING OPPORTUNITIES</text>
+    </g>
+
+    <g transform="translate(2 270)">
+      <text x="0" y="0" fill="#78838D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" letter-spacing="1.2">PRODUCT SIGNAL</text>
+      <text x="0" y="29" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">118</text>
+      <text x="46" y="29" fill="#89949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">mobile tools</text>
+      <path d="M150 4V32" stroke="#303943"/>
+      <text x="174" y="29" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">294+</text>
+      <text x="235" y="29" fill="#89949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">templates</text>
+      <path d="M332 4V32" stroke="#303943"/>
+      <text x="356" y="29" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">230+</text>
+      <text x="417" y="29" fill="#89949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">utilities</text>
     </g>
   </g>
 
-  <g transform="translate(585 86)" opacity="0.88">
-    <rect x="0" y="0" width="92" height="92" rx="18" fill="#151B23" stroke="#30363D" filter="url(#softShadow)"/>
-    <path d="M27 63L46 27L65 63H55L51 54H41L37 63H27ZM44 47H49L46 38L44 47Z" fill="#78A898"/>
-    <path d="M29 70H63" stroke="#C3A46E" stroke-width="2" stroke-linecap="round"/>
-    <path d="M46 -20V0M46 92V112M-20 46H0M92 46H112" stroke="#30363D"/>
-    <circle cx="46" cy="46" r="62" stroke="#30363D" stroke-dasharray="3 8"/>
+  <!-- product workspace -->
+  <g filter="url(#shadow)">
+    <!-- television layer -->
+    <g transform="translate(885 72)">
+      <rect width="250" height="142" rx="13" fill="url(#metal)" stroke="#4A555F"/>
+      <rect x="8" y="8" width="234" height="121" rx="8" fill="#091016" stroke="#202A33"/>
+      <rect x="18" y="20" width="214" height="99" rx="6" fill="url(#screen)"/>
+      <text x="30" y="39" fill="#C1A16B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="8" letter-spacing="1.4">VIEVIO / TV CONTROL</text>
+      <rect x="30" y="53" width="84" height="50" rx="6" fill="#151F27" stroke="#31404B"/>
+      <rect x="38" y="61" width="68" height="18" rx="3" fill="#759A8C" fill-opacity="0.16"/>
+      <circle cx="47" cy="70" r="4" fill="#759A8C"/>
+      <path d="M58 67H96M58 73H86" stroke="#AEB7BF" stroke-width="2" stroke-linecap="round"/>
+      <rect x="125" y="53" width="95" height="12" rx="3" fill="#202A33"/>
+      <rect x="125" y="72" width="76" height="8" rx="3" fill="#202A33"/>
+      <rect x="125" y="87" width="88" height="8" rx="3" fill="#202A33"/>
+      <circle cx="215" cy="27" r="3" fill="#759A8C"/>
+      <path d="M108 142H142L150 158H100L108 142Z" fill="#232D36"/>
+    </g>
+
+    <!-- laptop -->
+    <rect x="643" y="73" width="404" height="260" rx="16" fill="url(#metal)" stroke="#505B65"/>
+    <rect x="654" y="84" width="382" height="238" rx="10" fill="#080D12" stroke="#222C35"/>
+    <circle cx="845" cy="79" r="2.2" fill="#7A858F"/>
+    <g clip-path="url(#laptopScreen)">
+      <rect x="661" y="92" width="368" height="220" fill="url(#screen)"/>
+      <rect x="661" y="92" width="368" height="25" fill="#161F27"/>
+      <circle cx="675" cy="104.5" r="3" fill="#9C6F62"/>
+      <circle cx="687" cy="104.5" r="3" fill="#B99A64"/>
+      <circle cx="699" cy="104.5" r="3" fill="#73988A"/>
+      <rect x="719" y="99" width="142" height="11" rx="5.5" fill="#202A33"/>
+      <text x="874" y="108" fill="#73808B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="7">PRODUCT LAB</text>
+
+      <rect x="661" y="117" width="72" height="195" fill="#11181F"/>
+      <rect x="673" y="131" width="48" height="9" rx="4" fill="#759A8C" fill-opacity="0.22"/>
+      <rect x="673" y="153" width="36" height="5" rx="2.5" fill="#3A4650"/>
+      <rect x="673" y="170" width="44" height="5" rx="2.5" fill="#3A4650"/>
+      <rect x="673" y="187" width="31" height="5" rx="2.5" fill="#3A4650"/>
+      <rect x="673" y="260" width="46" height="30" rx="6" fill="#171F27" stroke="#2F3A44"/>
+      <circle cx="685" cy="272" r="4" fill="#759A8C"/>
+      <path d="M696 269H711M696 276H706" stroke="#89949E" stroke-width="2" stroke-linecap="round"/>
+
+      <text x="752" y="140" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Engineering portfolio</text>
+      <text x="752" y="157" fill="#7F8A94" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5">Products, platforms, and verified delivery</text>
+
+      <rect x="752" y="174" width="116" height="58" rx="8" fill="#172129" stroke="#34424C"/>
+      <text x="763" y="190" fill="#759A8C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="7">NETPULSE PRO</text>
+      <text x="763" y="211" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">118</text>
+      <text x="797" y="211" fill="#7F8A94" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8">tools</text>
+      <path d="M763 220H850" stroke="#2F3A44"/>
+
+      <rect x="878" y="174" width="132" height="58" rx="8" fill="#172129" stroke="#34424C"/>
+      <text x="889" y="190" fill="#C1A16B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="7">PREPWITHAI</text>
+      <path d="M889 217C906 204 921 210 936 195C951 181 963 210 998 191" stroke="#C1A16B" stroke-width="2" fill="none"/>
+      <circle cx="998" cy="191" r="3" fill="#C1A16B"/>
+
+      <rect x="752" y="244" width="258" height="50" rx="8" fill="#141C23" stroke="#2F3A44"/>
+      <text x="763" y="260" fill="#7F8A94" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="7">ACTIVE SYSTEMS</text>
+      <rect x="763" y="270" width="68" height="13" rx="6.5" fill="#759A8C" fill-opacity="0.16"/>
+      <text x="797" y="279" text-anchor="middle" fill="#BFD2CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="7">MOBILE</text>
+      <rect x="838" y="270" width="68" height="13" rx="6.5" fill="#C1A16B" fill-opacity="0.14"/>
+      <text x="872" y="279" text-anchor="middle" fill="#D8C5A1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="7">AI SAAS</text>
+      <rect x="913" y="270" width="78" height="13" rx="6.5" fill="#74808A" fill-opacity="0.16"/>
+      <text x="952" y="279" text-anchor="middle" fill="#AEB7BF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="7">TV SYSTEMS</text>
+    </g>
+    <path d="M620 333H1072L1037 361H655L620 333Z" fill="url(#metal)" stroke="#48535D"/>
+    <path d="M774 337H918L900 349H792L774 337Z" fill="#131A21"/>
   </g>
 
-  <g transform="translate(742 78)">
-    <rect width="406" height="244" rx="18" fill="#151B23" fill-opacity="0.92" stroke="#30363D" filter="url(#softShadow)"/>
-    <text x="24" y="32" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="2">CAPABILITY INDEX</text>
-    <path d="M24 48H382" stroke="#30363D"/>
-
-    <g transform="translate(24 68)">
-      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#78A898" stroke-opacity="0.72"/>
-      <text x="13" y="18" text-anchor="middle" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">01</text>
-      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Product Systems</text>
-      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Next.js · React · APIs · SaaS</text>
+  <!-- phone foreground -->
+  <g transform="rotate(3 1060 278)" filter="url(#smallShadow)">
+    <rect x="1005" y="170" width="111" height="216" rx="22" fill="url(#metal)" stroke="#56616B"/>
+    <rect x="1013" y="178" width="95" height="200" rx="17" fill="#080D12"/>
+    <rect x="1041" y="182" width="39" height="5" rx="2.5" fill="#26313A"/>
+    <g clip-path="url(#phoneScreen)">
+      <rect x="1015" y="186" width="91" height="184" fill="#10171D"/>
+      <text x="1025" y="207" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="700">NetPulse Pro</text>
+      <circle cx="1093" cy="203" r="4" fill="#759A8C"/>
+      <rect x="1024" y="220" width="73" height="34" rx="7" fill="#172129" stroke="#30404A"/>
+      <text x="1033" y="234" fill="#759A8C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="5.8">NETWORK STATUS</text>
+      <text x="1033" y="247" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="8" font-weight="700">Connected</text>
+      <circle cx="1087" cy="241" r="5" fill="#759A8C" fill-opacity="0.18"/>
+      <circle cx="1087" cy="241" r="2.5" fill="#759A8C"/>
+      <text x="1024" y="272" fill="#7F8A94" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="5.8">QUICK TOOLS</text>
+      <rect x="1024" y="281" width="34" height="34" rx="7" fill="#172129" stroke="#2E3943"/>
+      <circle cx="1041" cy="295" r="6" stroke="#759A8C"/>
+      <path d="M1037 300L1045 292" stroke="#759A8C" stroke-linecap="round"/>
+      <text x="1031" y="311" fill="#AEB7BF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="5.5">Ping</text>
+      <rect x="1063" y="281" width="34" height="34" rx="7" fill="#172129" stroke="#2E3943"/>
+      <path d="M1072 301C1078 289 1085 289 1090 301" stroke="#C1A16B" stroke-width="1.5"/>
+      <text x="1069" y="311" fill="#AEB7BF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="5.5">Wi-Fi</text>
+      <rect x="1024" y="322" width="73" height="25" rx="6" fill="#759A8C" fill-opacity="0.12" stroke="#759A8C" stroke-opacity="0.28"/>
+      <text x="1060.5" y="337" text-anchor="middle" fill="#C9D9D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="6.5">118 tools available</text>
     </g>
-
-    <g transform="translate(24 112)">
-      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#78A898" stroke-opacity="0.72"/>
-      <text x="13" y="18" text-anchor="middle" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">02</text>
-      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Mobile Platforms</text>
-      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">React Native · Expo · Android</text>
-    </g>
-
-    <g transform="translate(24 156)">
-      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#C3A46E" stroke-opacity="0.72"/>
-      <text x="13" y="18" text-anchor="middle" fill="#C3A46E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">03</text>
-      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AI Integration</text>
-      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Groq · Llama · Gemini · Evaluation</text>
-    </g>
-
-    <g transform="translate(24 200)">
-      <rect width="26" height="26" rx="6" fill="#0D1117" stroke="#C3A46E" stroke-opacity="0.72"/>
-      <text x="13" y="18" text-anchor="middle" fill="#C3A46E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">04</text>
-      <text x="42" y="12" fill="#F1EFE8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Television Engineering</text>
-      <text x="42" y="31" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Tizen · webOS · Android TV</text>
-    </g>
+    <circle cx="1060.5" cy="372" r="2.5" fill="#303B44"/>
   </g>
 
-  <g transform="translate(52 342)">
-    <path d="M0 0H1096" stroke="#30363D"/>
-    <text x="0" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">118 TOOLS</text>
-    <circle cx="126" cy="22" r="2" fill="#C3A46E"/>
-    <text x="146" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">294+ TEMPLATES</text>
-    <circle cx="298" cy="22" r="2" fill="#C3A46E"/>
-    <text x="318" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">230+ UTILITIES</text>
-    <circle cx="456" cy="22" r="2" fill="#C3A46E"/>
-    <text x="476" y="26" fill="#B2BAC2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">BSCS IN PROGRESS</text>
-    <text x="1096" y="26" text-anchor="end" fill="#78A898" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.2">BUILD · VERIFY · SHIP</text>
+  <!-- floating project labels -->
+  <g filter="url(#smallShadow)">
+    <rect x="566" y="103" width="102" height="28" rx="14" fill="url(#glass)" stroke="#759A8C" stroke-opacity="0.42"/>
+    <circle cx="582" cy="117" r="4" fill="#759A8C"/>
+    <text x="594" y="121" fill="#D5E1DC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="7.5">WEB + SAAS</text>
+    <rect x="570" y="293" width="110" height="28" rx="14" fill="url(#glass)" stroke="#C1A16B" stroke-opacity="0.4"/>
+    <circle cx="586" cy="307" r="4" fill="#C1A16B"/>
+    <text x="598" y="311" fill="#DBC9A8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="7.5">AI DELIVERY</text>
   </g>
+
+  <path d="M48 398H1152" stroke="#303943"/>
+  <text x="48" y="417" fill="#7D8892" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.2">SOURCE-FIRST · CROSS-PLATFORM · HUMAN-VERIFIED</text>
+  <text x="1152" y="417" text-anchor="end" fill="#759A8C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.3">BUILD · VERIFY · SHIP</text>
 </svg>
