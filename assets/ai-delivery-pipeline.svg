@@ -1,0 +1,101 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1017"/>
+      <stop offset="1" stop-color="#06080C"/>
+    </linearGradient>
+    <linearGradient id="line" x1="116" y1="190" x2="1084" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.25" stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#F472B6"/>
+      <stop offset="0.75" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#94A3B8" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="26" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="25" stroke="#94A3B8" stroke-opacity="0.12"/>
+
+  <text x="40" y="42" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="2">AI DELIVERY PIPELINE</text>
+  <text x="40" y="68" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Fast execution. Human judgment. Verifiable output.</text>
+  <text x="1160" y="42" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">SOURCE-FIRST / CONSTRAINT-AWARE / TESTED</text>
+
+  <path d="M128 185H1072" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- stage 1 -->
+  <g transform="translate(78 112)">
+    <rect width="190" height="142" rx="18" fill="#0A1118" stroke="#67E8F9" stroke-opacity="0.32"/>
+    <circle cx="95" cy="73" r="34" fill="#67E8F9" fill-opacity="0.08" stroke="#67E8F9" stroke-opacity="0.55"/>
+    <path d="M82 73H108M95 60V86" stroke="#67E8F9" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="95" cy="73" r="5" fill="#67E8F9" filter="url(#glow)"/>
+    <text x="95" y="24" text-anchor="middle" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.5">01 / CONTEXT</text>
+    <text x="95" y="121" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">READ THE SYSTEM</text>
+    <text x="95" y="137" text-anchor="middle" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Source · history · intent</text>
+  </g>
+
+  <!-- stage 2 -->
+  <g transform="translate(292 112)">
+    <rect width="190" height="142" rx="18" fill="#0A1118" stroke="#A78BFA" stroke-opacity="0.32"/>
+    <circle cx="95" cy="73" r="34" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55"/>
+    <path d="M79 62H111M79 73H104M79 84H98" stroke="#A78BFA" stroke-width="2.2" stroke-linecap="round"/>
+    <circle cx="111" cy="62" r="3" fill="#A78BFA" filter="url(#glow)"/>
+    <text x="95" y="24" text-anchor="middle" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.5">02 / MAP</text>
+    <text x="95" y="121" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">LOCK CONSTRAINTS</text>
+    <text x="95" y="137" text-anchor="middle" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Architecture · risk · scope</text>
+  </g>
+
+  <!-- stage 3 -->
+  <g transform="translate(506 112)">
+    <rect width="190" height="142" rx="18" fill="#0A1118" stroke="#F472B6" stroke-opacity="0.32"/>
+    <circle cx="95" cy="73" r="34" fill="#F472B6" fill-opacity="0.08" stroke="#F472B6" stroke-opacity="0.55"/>
+    <path d="M79 84L90 73L99 80L112 63" stroke="#F472B6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="112" cy="63" r="4" fill="#F472B6" filter="url(#glow)"/>
+    <text x="95" y="24" text-anchor="middle" fill="#F472B6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.5">03 / BUILD</text>
+    <text x="95" y="121" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">DIRECT THE WORK</text>
+    <text x="95" y="137" text-anchor="middle" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Plan · implement · review</text>
+  </g>
+
+  <!-- stage 4 -->
+  <g transform="translate(720 112)">
+    <rect width="190" height="142" rx="18" fill="#0A1118" stroke="#FBBF24" stroke-opacity="0.32"/>
+    <circle cx="95" cy="73" r="34" fill="#FBBF24" fill-opacity="0.08" stroke="#FBBF24" stroke-opacity="0.55"/>
+    <path d="M80 73L90 83L111 61" stroke="#FBBF24" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="111" cy="61" r="4" fill="#FBBF24" filter="url(#glow)"/>
+    <text x="95" y="24" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.5">04 / VERIFY</text>
+    <text x="95" y="121" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">PROVE IT WORKS</text>
+    <text x="95" y="137" text-anchor="middle" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Diff · test · build · device</text>
+  </g>
+
+  <!-- stage 5 -->
+  <g transform="translate(934 112)">
+    <rect width="190" height="142" rx="18" fill="#0A1118" stroke="#A3E635" stroke-opacity="0.32"/>
+    <circle cx="95" cy="73" r="34" fill="#A3E635" fill-opacity="0.08" stroke="#A3E635" stroke-opacity="0.55"/>
+    <path d="M78 78L95 60L112 78M95 60V90" stroke="#A3E635" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="95" cy="60" r="4" fill="#A3E635" filter="url(#glow)"/>
+    <text x="95" y="24" text-anchor="middle" fill="#A3E635" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.5">05 / SHIP</text>
+    <text x="95" y="121" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">HARDEN THE RELEASE</text>
+    <text x="95" y="137" text-anchor="middle" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Document · monitor · improve</text>
+  </g>
+
+  <!-- connectors -->
+  <g fill="#0B1017" stroke-width="2">
+    <circle cx="280" cy="185" r="8" stroke="#8B9DB4"/><path d="M276 185H284M280 181V189" stroke="#8B9DB4"/>
+    <circle cx="494" cy="185" r="8" stroke="#B574BA"/><path d="M490 185H498M494 181V189" stroke="#B574BA"/>
+    <circle cx="708" cy="185" r="8" stroke="#F09A78"/><path d="M704 185H712M708 181V189" stroke="#F09A78"/>
+    <circle cx="922" cy="185" r="8" stroke="#D5CF55"/><path d="M918 185H926M922 181V189" stroke="#D5CF55"/>
+  </g>
+
+  <g transform="translate(40 286)">
+    <circle cx="6" cy="6" r="4" fill="#A3E635" filter="url(#glow)"/>
+    <text x="19" y="10" fill="#D9F99D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">HUMAN JUDGMENT ACTIVE AT EVERY STAGE</text>
+    <text x="1120" y="10" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">AI IS THE ACCELERATOR — ENGINEERING IS THE CONTROL SYSTEM</text>
+  </g>
+</svg>
