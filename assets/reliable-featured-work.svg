@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Featured repositories PrepWithAI and ResumaBuilder">
+  <rect width="1200" height="330" rx="24" fill="#0F1412"/>
+  <rect x="1" y="1" width="1198" height="328" rx="23" fill="none" stroke="#354238"/>
+  <text x="48" y="48" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2">FEATURED PUBLIC REPOSITORIES</text>
+  <g transform="translate(48 78)">
+    <rect width="526" height="196" rx="18" fill="#171D19" stroke="#7A8F5B"/>
+    <text x="28" y="42" fill="#A9BA91" font-family="ui-monospace,Consolas,monospace" font-size="12" letter-spacing="1.4">AI INTERVIEW PLATFORM</text>
+    <text x="28" y="82" fill="#F5F1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="740">PrepWithAI</text>
+    <text x="28" y="112" fill="#B7C0BA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Practice, coding, streaming feedback, analytics, and billing.</text>
+    <text x="28" y="144" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="12">Next.js · TypeScript · MongoDB · Groq · Llama</text>
+    <rect x="28" y="160" width="158" height="24" rx="12" fill="#7A8F5B" fill-opacity=".2"/><text x="107" y="177" text-anchor="middle" fill="#DDE7D5" font-family="ui-monospace,Consolas,monospace" font-size="10">PUBLIC REPOSITORY</text>
+  </g>
+  <g transform="translate(626 78)">
+    <rect width="526" height="196" rx="18" fill="#1B1813" stroke="#B58B4C"/>
+    <text x="28" y="42" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="12" letter-spacing="1.4">AI CAREER TOOLKIT</text>
+    <text x="28" y="82" fill="#F5F1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="740">ResumaBuilder</text>
+    <text x="28" y="112" fill="#C4BDB2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">294+ ATS templates, career AI, matching, and exports.</text>
+    <text x="28" y="144" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="12">Next.js · TypeScript · Google Gemini · PWA</text>
+    <rect x="28" y="160" width="158" height="24" rx="12" fill="#B58B4C" fill-opacity=".2"/><text x="107" y="177" text-anchor="middle" fill="#E7D7B8" font-family="ui-monospace,Consolas,monospace" font-size="10">PUBLIC REPOSITORY</text>
+  </g>
+  <text x="48" y="306" fill="#8B949E" font-family="ui-monospace,Consolas,monospace" font-size="11">OPEN THE REPOSITORY LINKS BELOW FOR SOURCE, ARCHITECTURE, AND IMPLEMENTATION DETAILS</text>
+</svg>
