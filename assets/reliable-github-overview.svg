@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="GitHub engineering overview">
+  <rect width="1200" height="280" rx="24" fill="#0F1412"/>
+  <rect x="1" y="1" width="1198" height="278" rx="23" fill="none" stroke="#354238"/>
+  <text x="48" y="48" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2">GITHUB ENGINEERING OVERVIEW</text>
+  <text x="48" y="84" fill="#F5F1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="720">Public source, production systems, and cross-platform delivery</text>
+  <g transform="translate(48 116)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect width="250" height="104" rx="16" fill="#18201B" stroke="#7A8F5B"/><text x="22" y="34" fill="#A9BA91" font-family="ui-monospace,Consolas,monospace" font-size="11">PUBLIC REPOSITORIES</text><text x="22" y="66" fill="#F5F1E8" font-size="21" font-weight="700">AI + full-stack</text><text x="22" y="88" fill="#9BA69F" font-size="13">Readable source and architecture</text>
+    <rect x="274" width="250" height="104" rx="16" fill="#18201B" stroke="#7A8F5B"/><text x="296" y="34" fill="#A9BA91" font-family="ui-monospace,Consolas,monospace" font-size="11">MOBILE DELIVERY</text><text x="296" y="66" fill="#F5F1E8" font-size="21" font-weight="700">Released product</text><text x="296" y="88" fill="#9BA69F" font-size="13">Android store and native APIs</text>
+    <rect x="548" width="250" height="104" rx="16" fill="#1B1813" stroke="#B58B4C"/><text x="570" y="34" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="11">AI INTEGRATIONS</text><text x="570" y="66" fill="#F5F1E8" font-size="21" font-weight="700">Gemini + Groq</text><text x="570" y="88" fill="#B7AEA0" font-size="13">Generation, streaming, evaluation</text>
+    <rect x="822" width="250" height="104" rx="16" fill="#1B1813" stroke="#B58B4C"/><text x="844" y="34" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="11">PLATFORM RANGE</text><text x="844" y="66" fill="#F5F1E8" font-size="21" font-weight="700">Web · Mobile · TV</text><text x="844" y="88" fill="#B7AEA0" font-size="13">Backend and operations included</text>
+  </g>
+  <text x="48" y="252" fill="#8B949E" font-family="ui-monospace,Consolas,monospace" font-size="11">PROFILE: github.com/AbdullahTariq25 · ACTIVITY REMAINS AVAILABLE THROUGH GITHUB'S NATIVE CONTRIBUTION GRAPH</text>
+</svg>
