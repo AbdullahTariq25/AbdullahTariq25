@@ -1,31 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Abdullah Tariq technology stack">
-  <rect width="1200" height="300" rx="24" fill="#0F1412"/>
-  <rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="#354238"/>
-  <text x="48" y="50" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2">ENGINEERING TOOLKIT</text>
-  <text x="48" y="82" fill="#F5F1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">Technologies connected to shipped product work</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Abdullah Tariq technology stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1412"/><stop offset="1" stop-color="#15130F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#354238"/>
+  <circle cx="49" cy="48" r="7" fill="#5FA8A1"/>
+  <circle cx="72" cy="48" r="7" fill="#D88974"/>
+  <circle cx="95" cy="48" r="7" fill="#D7A94E"/>
+  <text x="120" y="53" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2">ENGINEERING TOOLKIT</text>
+  <text x="48" y="88" fill="#F5F1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">Technologies connected to real product delivery</text>
   <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">
-    <g transform="translate(48 118)">
-      <rect width="118" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="59" y="29" text-anchor="middle" fill="#F5F1E8">TypeScript</text>
-      <rect x="132" width="100" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="182" y="29" text-anchor="middle" fill="#F5F1E8">React</text>
-      <rect x="246" width="104" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="298" y="29" text-anchor="middle" fill="#F5F1E8">Next.js</text>
-      <rect x="364" width="126" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="427" y="29" text-anchor="middle" fill="#F5F1E8">React Native</text>
-      <rect x="504" width="96" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="552" y="29" text-anchor="middle" fill="#F5F1E8">Expo</text>
-      <rect x="614" width="104" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="666" y="29" text-anchor="middle" fill="#F5F1E8">Android</text>
-      <rect x="732" width="92" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="778" y="29" text-anchor="middle" fill="#F5F1E8">Java</text>
-      <rect x="838" width="120" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="898" y="29" text-anchor="middle" fill="#F5F1E8">Spring Boot</text>
-      <rect x="972" width="132" height="46" rx="12" fill="#18201B" stroke="#7A8F5B"/><text x="1038" y="29" text-anchor="middle" fill="#F5F1E8">PostgreSQL</text>
+    <g transform="translate(48 124)">
+      <g><rect width="118" height="48" rx="12" fill="#122020" stroke="#5FA8A1"/><circle cx="20" cy="24" r="10" fill="#5FA8A1"/><text x="20" y="28" text-anchor="middle" fill="#0F1412" font-size="10" font-weight="800">TS</text><text x="72" y="30" text-anchor="middle" fill="#F5F1E8">TypeScript</text></g>
+      <g transform="translate(132)"><rect width="100" height="48" rx="12" fill="#122020" stroke="#5FA8A1"/><circle cx="20" cy="24" r="10" fill="#5FA8A1"/><text x="20" y="28" text-anchor="middle" fill="#0F1412" font-size="11" font-weight="800">R</text><text x="63" y="30" text-anchor="middle" fill="#F5F1E8">React</text></g>
+      <g transform="translate(246)"><rect width="104" height="48" rx="12" fill="#161A1D" stroke="#8EA6B8"/><circle cx="20" cy="24" r="10" fill="#8EA6B8"/><text x="20" y="28" text-anchor="middle" fill="#111" font-size="10" font-weight="800">N</text><text x="66" y="30" text-anchor="middle" fill="#F5F1E8">Next.js</text></g>
+      <g transform="translate(364)"><rect width="132" height="48" rx="12" fill="#201713" stroke="#D88974"/><circle cx="20" cy="24" r="10" fill="#D88974"/><text x="20" y="28" text-anchor="middle" fill="#21120E" font-size="10" font-weight="800">RN</text><text x="80" y="30" text-anchor="middle" fill="#F5F1E8">React Native</text></g>
+      <g transform="translate(510)"><rect width="96" height="48" rx="12" fill="#201713" stroke="#D88974"/><circle cx="20" cy="24" r="10" fill="#D88974"/><text x="20" y="28" text-anchor="middle" fill="#21120E" font-size="10" font-weight="800">E</text><text x="62" y="30" text-anchor="middle" fill="#F5F1E8">Expo</text></g>
+      <g transform="translate(620)"><rect width="108" height="48" rx="12" fill="#201713" stroke="#D88974"/><circle cx="20" cy="24" r="10" fill="#D88974"/><text x="20" y="28" text-anchor="middle" fill="#21120E" font-size="10" font-weight="800">A</text><text x="68" y="30" text-anchor="middle" fill="#F5F1E8">Android</text></g>
+      <g transform="translate(742)"><rect width="92" height="48" rx="12" fill="#171C22" stroke="#8EA6B8"/><circle cx="20" cy="24" r="10" fill="#8EA6B8"/><text x="20" y="28" text-anchor="middle" fill="#111" font-size="10" font-weight="800">J</text><text x="59" y="30" text-anchor="middle" fill="#F5F1E8">Java</text></g>
+      <g transform="translate(848)"><rect width="126" height="48" rx="12" fill="#171C22" stroke="#8EA6B8"/><circle cx="20" cy="24" r="10" fill="#8EA6B8"/><text x="20" y="28" text-anchor="middle" fill="#111" font-size="10" font-weight="800">SB</text><text x="76" y="30" text-anchor="middle" fill="#F5F1E8">Spring Boot</text></g>
+      <g transform="translate(988)"><rect width="164" height="48" rx="12" fill="#142019" stroke="#72A981"/><circle cx="20" cy="24" r="10" fill="#72A981"/><text x="20" y="28" text-anchor="middle" fill="#0E1611" font-size="9" font-weight="800">PG</text><text x="92" y="30" text-anchor="middle" fill="#F5F1E8">PostgreSQL</text></g>
     </g>
-    <g transform="translate(48 180)">
-      <rect width="118" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="59" y="29" text-anchor="middle" fill="#F5F1E8">MongoDB</text>
-      <rect x="132" width="96" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="180" y="29" text-anchor="middle" fill="#F5F1E8">Redis</text>
-      <rect x="242" width="92" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="288" y="29" text-anchor="middle" fill="#F5F1E8">SQLite</text>
-      <rect x="348" width="112" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="404" y="29" text-anchor="middle" fill="#F5F1E8">Gemini</text>
-      <rect x="474" width="96" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="522" y="29" text-anchor="middle" fill="#F5F1E8">Groq</text>
-      <rect x="584" width="94" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="631" y="29" text-anchor="middle" fill="#F5F1E8">Tizen</text>
-      <rect x="692" width="104" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="744" y="29" text-anchor="middle" fill="#F5F1E8">webOS</text>
-      <rect x="810" width="118" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="869" y="29" text-anchor="middle" fill="#F5F1E8">Docker</text>
-      <rect x="942" width="112" height="46" rx="12" fill="#171613" stroke="#B58B4C"/><text x="998" y="29" text-anchor="middle" fill="#F5F1E8">GitHub</text>
+    <g transform="translate(48 188)">
+      <g><rect width="120" height="48" rx="12" fill="#142019" stroke="#72A981"/><circle cx="20" cy="24" r="10" fill="#72A981"/><text x="20" y="28" text-anchor="middle" fill="#0E1611" font-size="9" font-weight="800">M</text><text x="73" y="30" text-anchor="middle" fill="#F5F1E8">MongoDB</text></g>
+      <g transform="translate(134)"><rect width="96" height="48" rx="12" fill="#142019" stroke="#72A981"/><circle cx="20" cy="24" r="10" fill="#72A981"/><text x="20" y="28" text-anchor="middle" fill="#0E1611" font-size="9" font-weight="800">R</text><text x="61" y="30" text-anchor="middle" fill="#F5F1E8">Redis</text></g>
+      <g transform="translate(244)"><rect width="98" height="48" rx="12" fill="#142019" stroke="#72A981"/><circle cx="20" cy="24" r="10" fill="#72A981"/><text x="20" y="28" text-anchor="middle" fill="#0E1611" font-size="9" font-weight="800">SQ</text><text x="63" y="30" text-anchor="middle" fill="#F5F1E8">SQLite</text></g>
+      <g transform="translate(356)"><rect width="112" height="48" rx="12" fill="#211A0F" stroke="#D7A94E"/><circle cx="20" cy="24" r="10" fill="#D7A94E"/><text x="20" y="28" text-anchor="middle" fill="#211708" font-size="9" font-weight="800">G</text><text x="68" y="30" text-anchor="middle" fill="#F5F1E8">Gemini</text></g>
+      <g transform="translate(482)"><rect width="96" height="48" rx="12" fill="#211A0F" stroke="#D7A94E"/><circle cx="20" cy="24" r="10" fill="#D7A94E"/><text x="20" y="28" text-anchor="middle" fill="#211708" font-size="9" font-weight="800">GQ</text><text x="61" y="30" text-anchor="middle" fill="#F5F1E8">Groq</text></g>
+      <g transform="translate(592)"><rect width="98" height="48" rx="12" fill="#1A161E" stroke="#A58EC7"/><circle cx="20" cy="24" r="10" fill="#A58EC7"/><text x="20" y="28" text-anchor="middle" fill="#17121A" font-size="9" font-weight="800">T</text><text x="62" y="30" text-anchor="middle" fill="#F5F1E8">Tizen</text></g>
+      <g transform="translate(704)"><rect width="104" height="48" rx="12" fill="#1A161E" stroke="#A58EC7"/><circle cx="20" cy="24" r="10" fill="#A58EC7"/><text x="20" y="28" text-anchor="middle" fill="#17121A" font-size="9" font-weight="800">W</text><text x="65" y="30" text-anchor="middle" fill="#F5F1E8">webOS</text></g>
+      <g transform="translate(822)"><rect width="112" height="48" rx="12" fill="#181B1E" stroke="#9BA7B0"/><circle cx="20" cy="24" r="10" fill="#9BA7B0"/><text x="20" y="28" text-anchor="middle" fill="#111" font-size="9" font-weight="800">D</text><text x="69" y="30" text-anchor="middle" fill="#F5F1E8">Docker</text></g>
+      <g transform="translate(948)"><rect width="112" height="48" rx="12" fill="#181B1E" stroke="#9BA7B0"/><circle cx="20" cy="24" r="10" fill="#9BA7B0"/><text x="20" y="28" text-anchor="middle" fill="#111" font-size="9" font-weight="800">GH</text><text x="69" y="30" text-anchor="middle" fill="#F5F1E8">GitHub</text></g>
     </g>
   </g>
-  <text x="48" y="270" fill="#8B949E" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1.1">WEB · MOBILE · BACKEND · AI · DATA · TELEVISION · DELIVERY</text>
+  <path d="M48 257H1152" stroke="#354238"/>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1">
+    <text x="48" y="286" fill="#5FA8A1">WEB</text><text x="103" y="286" fill="#D88974">MOBILE</text><text x="181" y="286" fill="#8EA6B8">BACKEND</text><text x="274" y="286" fill="#72A981">DATA</text><text x="331" y="286" fill="#D7A94E">AI</text><text x="367" y="286" fill="#A58EC7">TELEVISION</text><text x="473" y="286" fill="#9BA7B0">DELIVERY</text>
+  </g>
 </svg>
