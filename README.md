@@ -8,44 +8,34 @@
 
 ## 👋 About me
 
-I am a **software developer and product engineer** based in Lahore, Pakistan. I design, build, debug, and deliver complete software systems across web, mobile, backend, artificial intelligence, and television platforms.
+I am a **software developer and product engineer** based in Lahore, Pakistan. I build complete software products across web, mobile, backend, AI, Android, and television platforms—from architecture and implementation to testing, deployment, and production support.
 
-My work goes beyond interface development. I handle product architecture, APIs, data models, authentication, native integrations, operational panels, deployment, testing, performance, failure recovery, and release hardening. I use AI as an engineering accelerator while keeping technical decisions, verification, and delivery accountability human-owned.
+My work combines product thinking with hands-on engineering. I develop interfaces, APIs, data models, authentication systems, native integrations, operational tooling, AI workflows, and release pipelines. I use AI to accelerate research, debugging, implementation, and documentation while keeping technical judgment and verification human-owned.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <p><sub>💼 CURRENT WORK</sub></p>
-      <h3>Independent Software Developer</h3>
-      <p>Building startup products and client systems across full-stack web, React Native, backend services, AI applications, Android, Samsung Tizen, LG webOS, and Android TV.</p>
+    <td width="33%" valign="top">
+      <p><sub>🎯 PROFESSIONAL FOCUS</sub></p>
+      <p><strong>Full-stack and cross-platform product engineering</strong></p>
     </td>
-    <td width="50%" valign="top">
-      <p><sub>🎓 CURRENT EDUCATION</sub></p>
-      <h3>BS Computer Science</h3>
-      <p><strong>Virtual University of Pakistan</strong><br />Oct 2025 — Expected 2029</p>
+    <td width="33%" valign="top">
+      <p><sub>🌏 BACKGROUND</sub></p>
+      <p><strong>Pakistan · China technical education and project experience</strong></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub>🌏 INTERNATIONAL BACKGROUND</sub></p>
-      <h3>Software Technology · Grade A</h3>
-      <p>Sino-Pak Dual Diploma / DAE through SZIIT Shenzhen and PBTE / GCT Lahore, including on-campus technical study in Shenzhen, China.</p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <p><sub>🗣 COMMUNICATION</sub></p>
-      <h3>English · Urdu · Mandarin</h3>
-      <p>Professional communication in English and Urdu, with Mandarin Chinese communication at approximately HSK 3 level.</p>
+      <p><strong>English · Urdu · Mandarin Chinese</strong></p>
     </td>
   </tr>
 </table>
 
-> **Current direction:** Open to software engineering roles, internships, graduate opportunities, collaborations, and meaningful product work—Lahore, hybrid, or remote.
+> **Open to software engineering roles, internships, graduate opportunities, collaborations, and meaningful product work — Lahore, hybrid, or remote.**
 
 ---
 
-## 🚀 Featured work
+## 🚀 Selected work
 
-My public repositories demonstrate source-level implementation and architecture. My released and commercial systems demonstrate delivery across app stores, backend infrastructure, mobile devices, and television platforms.
+My public repositories show source-level implementation and architecture. My released and commercial products show delivery across app stores, backend infrastructure, mobile devices, and television platforms.
 
 <p align="center">
   <img width="100%" src="./assets/reliable-featured-work.svg" alt="Featured repositories: PrepWithAI and ResumaBuilder" />
@@ -57,39 +47,33 @@ My public repositories demonstrate source-level implementation and architecture.
   <a href="https://github.com/AbdullahTariq25/ResumaBuilder"><strong>Open ResumaBuilder →</strong></a>
 </p>
 
-### ◆ Product portfolio
-
-| Product | Product evidence | Core stack |
+| Product | Engineering scope | Core stack |
 |---|---|---|
-| [**NetPulse Pro**](https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro) | Released Android network and technical-utility product covering diagnostics, Wi-Fi, lookups, OSINT, privacy, security, device intelligence, and engineering workflows | React Native, Expo, TypeScript, Zustand, SQLite |
-| [**PrepWithAI**](https://github.com/AbdullahTariq25/PrepWithAI) | Full-stack interview-preparation platform with technical and behavioral practice, Monaco coding, streaming AI feedback, analytics, subscriptions, and production controls | Next.js, TypeScript, MongoDB, Groq, Llama, Stripe |
-| [**ResumaBuilder**](https://github.com/AbdullahTariq25/ResumaBuilder) | AI-assisted resume and career platform with a large ATS-ready template system, content generation, cover letters, job matching, analysis, persistence, PWA support, and document exports | Next.js, TypeScript, Google Gemini, PWA |
-| **Vievio** | Commercial IPTV ecosystem spanning consumer applications, backend infrastructure, provider operations, monitoring, activation, and television clients | React Native, Next.js, PostgreSQL, Redis, Tizen, webOS, Android TV |
+| [**NetPulse Pro**](https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro) | Released Android network and technical-utility product covering diagnostics, connectivity, lookups, device intelligence, privacy, security, and engineering workflows | React Native, Expo, TypeScript, Zustand, SQLite |
+| [**PrepWithAI**](https://github.com/AbdullahTariq25/PrepWithAI) | Full-stack interview-preparation platform with technical and behavioral practice, coding workflows, streaming AI feedback, analytics, subscriptions, and production controls | Next.js, TypeScript, MongoDB, Groq, Llama, Stripe |
+| [**ResumaBuilder**](https://github.com/AbdullahTariq25/ResumaBuilder) | AI-assisted resume and career platform with ATS-ready templates, content assistance, cover letters, job matching, analysis, persistence, PWA support, and document exports | Next.js, TypeScript, Google Gemini, PWA |
+| **Vievio** | Commercial IPTV ecosystem spanning consumer applications, provider operations, backend services, monitoring, activation, and television clients | React Native, Next.js, PostgreSQL, Redis, Tizen, webOS, Android TV |
 
 <details>
-<summary><strong>Open complete product engineering details</strong></summary>
+<summary><strong>Open detailed product engineering scope</strong></summary>
 <br />
 
 ### NetPulse Pro
-
-- Configuration-driven architecture supporting a broad set of networking and technical tools.
-- SQLite history, persistent settings, exports, themes, testing, and reusable interfaces.
+- Configuration-driven architecture for a broad collection of networking and technical tools.
 - Native networking, device, sensor, file-system, notification, TCP, UDP, and BLE capabilities.
+- SQLite history, persistent settings, exports, themes, testing, and reusable interfaces.
 
 ### PrepWithAI
-
-- Technical and behavioral interview tracks, voice/video practice, company preparation, reports, and analytics.
-- Groq integration using Llama 3.3 70B with retries, streaming, API usage tracking, and calibrated evaluation.
-- Authentication, plan enforcement, Stripe billing, transactional email, monitoring, and readiness checks.
+- Technical and behavioral interview tracks, coding practice, voice/video workflows, reports, and analytics.
+- Groq integration with Llama 3.3 70B, retries, streaming, usage tracking, and structured evaluation.
+- Authentication, plan enforcement, Stripe billing, transactional email, monitoring, and production checks.
 
 ### ResumaBuilder
-
 - Large ATS-ready resume template system with cloud and local persistence.
 - Google Gemini integration with configurable Flash-family fallbacks and an optional Pro model.
-- Resume content, cover letters, job matching, ATS assistance, and PDF, Word, PNG, and text exports.
+- Resume content, cover letters, job matching, ATS assistance, and multi-format exports.
 
 ### Vievio
-
 - Web, React Native mobile, Android TV, Samsung Tizen, and LG webOS applications.
 - Provider management, activation, role-separated panels, source monitoring, playback recovery, and constrained-device optimization.
 
@@ -97,23 +81,19 @@ My public repositories demonstrate source-level implementation and architecture.
 
 ---
 
-## 🤖 AI systems and engineering judgment
-
-The products above use AI in distinct, production-oriented ways: **Gemini for generative career workflows** and **Groq/Llama for low-latency interview interaction and structured evaluation**.
+## 🤖 AI engineering
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <p><sub>🟡 GOOGLE GEMINI · RESUMABUILDER</sub></p>
-      <h3>Generation with resilience</h3>
-      <p>Gemini supports resume content, cover letters, job matching, and ATS-oriented workflows through configurable Flash-model fallbacks, an optional Pro model, and explicit error handling.</p>
-      <p><kbd>Gemini Flash</kbd> <kbd>Gemini Pro</kbd> <kbd>Fallback strategy</kbd></p>
+      <h3>Generative career workflows</h3>
+      <p>Gemini supports resume content, cover letters, job matching, and ATS-oriented workflows through configurable model fallbacks, an optional Pro model, and explicit error handling.</p>
     </td>
     <td width="50%" valign="top">
       <p><sub>🟢 GROQ + LLAMA · PREPWITHAI</sub></p>
-      <h3>Streaming with evaluation</h3>
-      <p>Groq serves streaming interview responses and evidence-based feedback using Llama 3.3 70B, retry handling, usage tracking, structured output, and calibrated scoring.</p>
-      <p><kbd>Llama 3.3 70B</kbd> <kbd>Streaming</kbd> <kbd>Evaluation</kbd></p>
+      <h3>Low-latency interaction and evaluation</h3>
+      <p>Groq serves streaming interview responses and structured feedback using Llama 3.3 70B, retry handling, usage tracking, and calibrated scoring.</p>
     </td>
   </tr>
 </table>
@@ -124,17 +104,15 @@ The products above use AI in distinct, production-oriented ways: **Gemini for ge
 <summary><strong>Open my source-first engineering workflow</strong></summary>
 <br />
 
-| Stage | What I do |
+| Stage | Practice |
 |---|---|
-| **Understand** | Read source, history, logs, current behavior, architecture boundaries, and non-negotiable constraints. |
-| **Map** | Identify affected surfaces, dependencies, platform limitations, failure risks, and stable systems that must remain untouched. |
+| **Understand** | Read source, history, logs, behavior, architecture boundaries, and non-negotiable constraints. |
+| **Map** | Identify dependencies, affected surfaces, platform limitations, risks, and stable systems that must remain untouched. |
 | **Build** | Use AI for navigation, comparison, implementation alternatives, debugging, test design, and documentation—not blind generation. |
 | **Prove** | Review diffs and validate through type checks, tests, builds, logs, simulators, and physical devices where required. |
 | **Ship** | Harden failure states, preserve compatibility, document decisions, and release traceable changes. |
 
-```text
-CONTEXT → SOURCE REVIEW → CONSTRAINTS → IMPLEMENTATION → DIFF REVIEW → VERIFICATION → RELEASE
-```
+`CONTEXT → SOURCE REVIEW → CONSTRAINTS → IMPLEMENTATION → DIFF REVIEW → VERIFICATION → RELEASE`
 
 </details>
 
@@ -142,32 +120,20 @@ CONTEXT → SOURCE REVIEW → CONSTRAINTS → IMPLEMENTATION → DIFF REVIEW →
 
 ## 🧰 Engineering toolkit
 
-The stack below connects directly to the product work above—from interfaces and native applications to APIs, persistence, AI, infrastructure, and release verification.
-
 <p align="center">
   <img width="100%" src="./assets/reliable-tech-stack.svg" alt="Technology stack used across shipped product work" />
 </p>
 
 <table>
   <tr>
-    <td width="50%" valign="top"><strong>🟦 Product engineering</strong><br /><sub>Responsive UI, dashboards, authentication, billing, SSR, SEO, accessibility, performance, APIs, and deployment.</sub></td>
-    <td width="50%" valign="top"><strong>🟥 Mobile and television</strong><br /><sub>React Native, Expo, Android, Tizen, webOS, Android TV, native modules, device APIs, remote navigation, and media UX.</sub></td>
+    <td width="50%" valign="top"><strong>🟦 Web and product systems</strong><br /><sub>Next.js, React, Vue.js, TypeScript, responsive UI, dashboards, authentication, billing, SSR, SEO, accessibility, and deployment.</sub></td>
+    <td width="50%" valign="top"><strong>🟥 Mobile and television</strong><br /><sub>React Native, Expo, Android, Samsung Tizen, LG webOS, Android TV, native modules, device APIs, remote navigation, and media UX.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><strong>🟩 Backend and data</strong><br /><sub>Java, Spring Boot, Node.js, REST, PostgreSQL, MongoDB, MySQL, Redis, SQLite, authentication, caching, and integrations.</sub></td>
+    <td width="50%" valign="top"><strong>🟩 Backend and data</strong><br /><sub>Java, Spring Boot, Node.js, REST APIs, PostgreSQL, MongoDB, MySQL, Redis, SQLite, authentication, caching, and integrations.</sub></td>
     <td width="50%" valign="top"><strong>🟨 Quality and delivery</strong><br /><sub>Testing, debugging, type checks, GitHub Actions, Docker, Linux, logs, monitoring, simulators, device validation, and release hardening.</sub></td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub activity
-
-<p align="center">
-  <img width="100%" src="./assets/reliable-github-overview.svg" alt="GitHub engineering overview" />
-</p>
-
-The native contribution graph, repository history, releases, and source code remain available directly on my GitHub profile and repositories without depending on external statistics services.
 
 ---
 
