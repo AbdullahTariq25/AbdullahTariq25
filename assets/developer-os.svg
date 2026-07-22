@@ -1,0 +1,143 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="24" x2="1128" y2="496" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#090D12"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="core" x1="492" y1="140" x2="722" y2="374" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#182230"/>
+      <stop offset="1" stop-color="#0B1119"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="330" y1="250" x2="920" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#A3E635" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#94A3B8" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="glowCyan" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity="0.48"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="520" rx="30" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="518" rx="29" stroke="#94A3B8" stroke-opacity="0.13"/>
+  <rect width="1200" height="520" rx="30" fill="url(#grid)"/>
+
+  <!-- window chrome -->
+  <circle cx="34" cy="31" r="5" fill="#FB7185"/>
+  <circle cx="52" cy="31" r="5" fill="#FBBF24"/>
+  <circle cx="70" cy="31" r="5" fill="#A3E635"/>
+  <text x="96" y="36" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.5">ABDULLAH.DEV / CONTROL ROOM</text>
+  <text x="1160" y="36" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">SESSION 2026.07</text>
+  <path d="M20 54H1180" stroke="#94A3B8" stroke-opacity="0.12"/>
+
+  <!-- left identity panel -->
+  <g transform="translate(54 86)">
+    <rect width="378" height="344" rx="22" fill="#0C121A" fill-opacity="0.86" stroke="#67E8F9" stroke-opacity="0.16"/>
+    <text x="28" y="38" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="2">IDENTITY / PRIMARY OPERATOR</text>
+    <text x="28" y="100" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="0.5">ABDULLAH</text>
+    <text x="28" y="142" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="0.5">TARIQ</text>
+    <rect x="28" y="166" width="232" height="28" rx="14" fill="#67E8F9" fill-opacity="0.08" stroke="#67E8F9" stroke-opacity="0.35"/>
+    <circle cx="45" cy="180" r="4" fill="#A3E635" filter="url(#glowSoft)"/>
+    <text x="58" y="185" fill="#D8F8FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1">OPEN TO ENGINEERING ROLES</text>
+
+    <text x="28" y="228" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">SOFTWARE DEVELOPER</text>
+    <text x="28" y="254" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Full-stack · Mobile · AI · TV platforms</text>
+    <text x="28" y="279" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Lahore, Pakistan · International background</text>
+
+    <rect x="28" y="302" width="322" height="34" rx="8" fill="#06090D" stroke="#334155" stroke-opacity="0.72"/>
+    <text x="42" y="324" fill="#A3E635" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">›</text>
+    <text x="60" y="324" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">ship --platform web mobile ai tv</text>
+  </g>
+
+  <!-- central processor -->
+  <g filter="url(#shadow)">
+    <circle cx="624" cy="251" r="132" fill="#071019" stroke="#67E8F9" stroke-opacity="0.18"/>
+    <circle cx="624" cy="251" r="108" fill="url(#core)" stroke="#67E8F9" stroke-opacity="0.34"/>
+    <circle cx="624" cy="251" r="82" stroke="#67E8F9" stroke-opacity="0.14" stroke-dasharray="3 10"/>
+    <path d="M624 145V175M624 327V357M518 251H548M700 251H730" stroke="#67E8F9" stroke-opacity="0.52" stroke-width="2"/>
+    <path d="M549 176L570 197M678 305L699 326M699 176L678 197M570 305L549 326" stroke="#A3E635" stroke-opacity="0.46" stroke-width="2"/>
+    <path d="M586 284L624 190L662 284H642L634 263H614L606 284H586ZM619 247H629L624 231L619 247Z" fill="url(#cyan)" filter="url(#glowCyan)"/>
+    <text x="624" y="308" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="2">AI-ASSISTED PRODUCT ENGINEERING</text>
+  </g>
+  <path d="M432 251H492M756 251H804" stroke="url(#beam)" stroke-width="2"/>
+
+  <!-- right capability modules -->
+  <g transform="translate(812 86)">
+    <rect width="334" height="344" rx="22" fill="#0C121A" fill-opacity="0.86" stroke="#A3E635" stroke-opacity="0.15"/>
+    <text x="24" y="38" fill="#A3E635" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="2">CAPABILITY MODULES</text>
+
+    <!-- web -->
+    <g transform="translate(24 62)">
+      <rect width="136" height="96" rx="14" fill="#0A0F16" stroke="#67E8F9" stroke-opacity="0.26"/>
+      <rect x="16" y="17" width="38" height="30" rx="4" stroke="#67E8F9" stroke-width="2"/>
+      <path d="M16 25H54" stroke="#67E8F9" stroke-opacity="0.6"/>
+      <circle cx="22" cy="21" r="1.5" fill="#FB7185"/><circle cx="27" cy="21" r="1.5" fill="#FBBF24"/><circle cx="32" cy="21" r="1.5" fill="#A3E635"/>
+      <text x="16" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">WEB</text>
+      <text x="16" y="87" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">FULL-STACK</text>
+    </g>
+
+    <!-- mobile -->
+    <g transform="translate(174 62)">
+      <rect width="136" height="96" rx="14" fill="#0A0F16" stroke="#F472B6" stroke-opacity="0.3"/>
+      <rect x="18" y="12" width="23" height="40" rx="5" stroke="#F472B6" stroke-width="2"/>
+      <path d="M25 47H34" stroke="#F472B6" stroke-linecap="round"/>
+      <text x="16" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">MOBILE</text>
+      <text x="16" y="87" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">REACT NATIVE</text>
+    </g>
+
+    <!-- ai -->
+    <g transform="translate(24 172)">
+      <rect width="136" height="96" rx="14" fill="#0A0F16" stroke="#A78BFA" stroke-opacity="0.3"/>
+      <circle cx="26" cy="28" r="6" stroke="#A78BFA" stroke-width="2"/><circle cx="48" cy="18" r="5" stroke="#A78BFA" stroke-width="2"/><circle cx="51" cy="42" r="5" stroke="#A78BFA" stroke-width="2"/>
+      <path d="M31 25L43 20M31 31L46 40M48 23L50 37" stroke="#A78BFA"/>
+      <text x="16" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AI</text>
+      <text x="16" y="87" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">ORCHESTRATION</text>
+    </g>
+
+    <!-- tv -->
+    <g transform="translate(174 172)">
+      <rect width="136" height="96" rx="14" fill="#0A0F16" stroke="#FBBF24" stroke-opacity="0.3"/>
+      <rect x="16" y="15" width="43" height="31" rx="4" stroke="#FBBF24" stroke-width="2"/>
+      <path d="M31 52H44M37 46V52" stroke="#FBBF24" stroke-width="2" stroke-linecap="round"/>
+      <text x="16" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">TV</text>
+      <text x="16" y="87" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9">TIZEN · WEBOS</text>
+    </g>
+
+    <g transform="translate(24 286)">
+      <text x="0" y="16" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">SYSTEM STATUS</text>
+      <circle cx="104" cy="12" r="4" fill="#A3E635" filter="url(#glowSoft)"/>
+      <text x="117" y="16" fill="#D9F99D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">BUILDING</text>
+      <circle cx="200" cy="12" r="4" fill="#67E8F9" filter="url(#glowSoft)"/>
+      <text x="213" y="16" fill="#CFFAFE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">LEARNING</text>
+    </g>
+  </g>
+
+  <!-- footer telemetry -->
+  <g transform="translate(54 463)">
+    <rect width="1092" height="34" rx="10" fill="#070A0E" stroke="#334155" stroke-opacity="0.45"/>
+    <text x="18" y="22" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">118 TOOLS</text>
+    <text x="132" y="22" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">/</text>
+    <text x="154" y="22" fill="#F472B6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">294+ TEMPLATES</text>
+    <text x="302" y="22" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">/</text>
+    <text x="324" y="22" fill="#FBBF24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">230+ UTILITIES</text>
+    <text x="464" y="22" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">/</text>
+    <text x="486" y="22" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">MULTI-PLATFORM DELIVERY</text>
+    <text x="1074" y="22" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">BUILD → VERIFY → HARDEN → SHIP</text>
+  </g>
+</svg>
