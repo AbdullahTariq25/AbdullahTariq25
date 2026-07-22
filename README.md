@@ -23,36 +23,29 @@
 
 <table>
   <tr>
-    <td width="50%" valign="middle">
+    <td width="44%" valign="middle">
 <pre>
-                         ..........
-                  .:░░░░▒▒▒▒▒▒▒▒▓▓▒░..
-             ...:░▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▒:..
-             .▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓█████▓▓▓▒░.
-            .▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓████▓▓▓▓▓▒.
-           .:▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓████▓▓▓▒.
-          .▒▓▓▓▓▓▓▓▓▒▒▒▒░░::░░▒▒▒▓▓▓█████▓▓.
-         .▓█▓▓▓▓▓▓▓▓▓▒░:..:::::░▒▒▒▓▓▓▓██▓:
-         .░▓▓█▓▒░░░░░▒▒░:..:░▒▒▒░░▒▒▒▓▓▓▓▓.
-          .▒██▓░:░░░░▒░▒░:.░▒░░▒░▒░░:▒▓▓▓░.
-           .░▒░::::::░░░::.:░░░░:::.::▓▒░.
-            .:▒::.....:::..::::.....:░▒:.
-            ..░░:......:░::░░░:....:░▓..
-              .▒░::..:░░▒▒▒▒▒▒▒░:::░:..
-               .▓░░::░░░░░░░░░:::░▒░.
-               ..░▓▒░::.::░::.:░░▒▓.
-                 .▒▓▓▓▓▒▒▒▒▒▒▒▓▓█▓▒.
-                 .::░▒▓▓▓▓▓▓▓▓▓▒░::.
-                  ::.:::░░░░░░░:::░.
-                  ::...::::::::.::░.
-                  .░:::::::::::::░.
-                   ..:::::::::::..
-                     ..:........
-                       ......
+╭──────────────────────────────────────╮
+│                                      │
+│              ╭────────╮              │
+│        ──────┤ &lt;AT/&gt;  ├──────        │
+│              ╰────┬───╯              │
+│                   │                  │
+│          ┌────────┼────────┐         │
+│          │        │        │         │
+│          ▼        ▼        ▼         │
+│        WEB      MOBILE     AI        │
+│          ╲        │        ╱         │
+│           ╲       ▼       ╱          │
+│            ╰── TV SYSTEMS ─╯         │
+│                                      │
+│   CONTEXT → BUILD → VERIFY → SHIP    │
+│                                      │
+╰──────────────────────────────────────╯
 </pre>
-      <p align="center"><sub>Tonal portrait calibrated for GitHub monospace rendering · 54 × 24 cells</sub></p>
+      <p align="center"><sub>Engineering signature · pure Markdown text</sub></p>
     </td>
-    <td width="50%" valign="middle">
+    <td width="56%" valign="middle">
       <p><sub>ABOUT / PRIMARY PROFILE</sub></p>
       <h2>Software developer building complete product systems.</h2>
       <p>I build production-oriented software across <strong>web, mobile, backend, AI, and television platforms</strong>. My strongest work appears where complex product flows, APIs, constrained devices, cross-platform reliability, and carefully directed AI-assisted development meet.</p>
