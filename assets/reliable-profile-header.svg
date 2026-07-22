@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Abdullah Tariq Software Developer and Product Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171717"/><stop offset="0.55" stop-color="#354238"/><stop offset="1" stop-color="#7A8F5B"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#F5F1E8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="#F5F1E8" stroke-opacity=".16"/>
+  <text x="64" y="64" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2.4">SOFTWARE DEVELOPER · PRODUCT ENGINEER</text>
+  <text x="64" y="137" fill="#F5F1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="750">Abdullah Tariq</text>
+  <text x="66" y="180" fill="#E7E1D4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Complete products across web, mobile, backend, AI, and television platforms.</text>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">
+    <rect x="64" y="224" width="186" height="42" rx="21" fill="#111" fill-opacity=".34" stroke="#A9BA91"/><text x="157" y="250" text-anchor="middle" fill="#F5F1E8">FULL-STACK SYSTEMS</text>
+    <rect x="266" y="224" width="156" height="42" rx="21" fill="#111" fill-opacity=".34" stroke="#D7C8A8"/><text x="344" y="250" text-anchor="middle" fill="#F5F1E8">MOBILE APPS</text>
+    <rect x="438" y="224" width="154" height="42" rx="21" fill="#111" fill-opacity=".34" stroke="#A9BA91"/><text x="515" y="250" text-anchor="middle" fill="#F5F1E8">AI SYSTEMS</text>
+    <rect x="608" y="224" width="174" height="42" rx="21" fill="#111" fill-opacity=".34" stroke="#D7C8A8"/><text x="695" y="250" text-anchor="middle" fill="#F5F1E8">TV PLATFORMS</text>
+  </g>
+  <path d="M64 299H1136" stroke="#F5F1E8" stroke-opacity=".18"/>
+  <text x="64" y="329" fill="#D7C8A8" font-family="ui-monospace,Consolas,monospace" font-size="12" letter-spacing="1.5">LAHORE, PAKISTAN · OPEN TO ENGINEERING ROLES · SOURCE-FIRST · HUMAN-VERIFIED</text>
+</svg>
