@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-system-dark.svg" />
-    <img src="./assets/profile-system-light.svg" width="100%" alt="Abdullah Tariq — Software Developer profile system" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering-workspace-dark.svg" />
+    <img src="./assets/engineering-workspace-light.svg" width="100%" alt="Abdullah Tariq — software developer and AI-augmented product engineer" />
   </picture>
 </p>
 
@@ -20,6 +20,10 @@
 > [!IMPORTANT]
 > **Open to software engineering roles, internships, graduate opportunities, and meaningful product work** — Lahore, hybrid, or remote.
 
+<p align="center">
+  <strong>I do not use AI as a substitute for engineering. I use it to operate across more engineering surface area—source review, dependency tracing, implementation, testing, verification, and documentation—while retaining responsibility for every technical decision.</strong>
+</p>
+
 <table>
   <tr>
     <td align="center" width="25%"><strong>FULL-STACK</strong><br /><sub>Products, SaaS, dashboards</sub></td>
@@ -29,7 +33,25 @@
   </tr>
 </table>
 
-I build **complete product systems**, not isolated screens: frontend experiences, backend APIs, AI workflows, native integrations, operational tooling, testing, deployment, and release hardening.
+<details>
+<summary><strong>Open my AI engineering playbook</strong></summary>
+<br />
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>01 · Inspect deeper</strong><br /><sub>Read source, history, logs, architecture boundaries, dependencies, and non-negotiable constraints before changing code.</sub></td>
+    <td width="33%" valign="top"><strong>02 · Direct deliberately</strong><br /><sub>Use AI for navigation, comparison, implementation alternatives, debugging, test design, and documentation—not blind generation.</sub></td>
+    <td width="33%" valign="top"><strong>03 · Prove the result</strong><br /><sub>Review diffs and verify through type checks, tests, builds, logs, simulators, and physical devices where the platform requires it.</sub></td>
+  </tr>
+</table>
+
+```text
+CONTEXT → SOURCE REVIEW → CONSTRAINT MAP → IMPLEMENTATION → DIFF REVIEW → TESTS / BUILDS / DEVICES → RELEASE
+```
+
+This workflow lets me cover broader engineering scope than a normal one-person implementation loop while keeping the work **traceable, constraint-aware, and human-verified**.
+
+</details>
 
 ---
 
@@ -67,7 +89,7 @@ A released React Native network toolkit for engineers, developers, IT administra
 
 ### PrepWithAI
 
-A full-stack interview preparation platform built around deliberate practice, measurable feedback, and structured career workflows.
+A full-stack interview-preparation platform built around deliberate practice, measurable feedback, and structured career workflows.
 
 - Technical and behavioral interviews, voice/video practice, Monaco coding workspace, company preparation, analytics, and reports.
 - Groq integration with Llama 3.3 70B, retry logic, streaming responses, usage tracking, and calibrated interview evaluation.
@@ -98,14 +120,14 @@ A multi-platform IPTV ecosystem spanning consumer clients, television applicatio
 
 ---
 
-## 02 — AI systems, used deliberately
+## 02 — Verified AI integrations
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <p><sub>GOOGLE GEMINI</sub></p>
       <h3>ResumaBuilder</h3>
-      <p>Gemini powers resume content, cover-letter assistance, job matching, and career workflows through configurable Flash-model fallbacks and an optional Pro model.</p>
+      <p>Gemini supports resume content, cover-letter assistance, job matching, and career workflows through configurable Flash-model fallbacks and an optional Pro model.</p>
       <p><kbd>Generation</kbd> <kbd>Career AI</kbd> <kbd>Fallbacks</kbd></p>
     </td>
     <td width="33%" valign="top">
@@ -115,15 +137,26 @@ A multi-platform IPTV ecosystem spanning consumer clients, television applicatio
       <p><kbd>Streaming</kbd> <kbd>Evaluation</kbd> <kbd>Tracking</kbd></p>
     </td>
     <td width="33%" valign="top">
-      <p><sub>AI-DIRECTED ENGINEERING</sub></p>
-      <h3>My workflow</h3>
-      <p>I use AI to inspect faster, compare wider, implement deliberately, test aggressively, and document clearly—while retaining responsibility for technical judgment.</p>
+      <p><sub>AI-AUGMENTED ENGINEERING</sub></p>
+      <h3>My delivery method</h3>
+      <p>I use AI to inspect faster, compare wider, implement deliberately, test aggressively, and document clearly—without outsourcing technical judgment.</p>
       <p><kbd>Source-first</kbd> <kbd>Verified</kbd> <kbd>Traceable</kbd></p>
     </td>
   </tr>
 </table>
 
 > **AI accelerates execution. Engineering controls the outcome.**
+
+<details>
+<summary><strong>View implementation and verification principles</strong></summary>
+<br />
+
+- **No blind prompting:** source and constraints are inspected before implementation begins.
+- **No unsupported certainty:** assumptions are identified, tested, and revised against code, logs, builds, or device behavior.
+- **No “looks correct” delivery:** changes are reviewed through diffs and validated with the strongest practical evidence available.
+- **No hidden dependency damage:** stable routes, APIs, metadata, platform identities, and known-good playback or deployment chains are treated as explicit boundaries.
+
+</details>
 
 ---
 
