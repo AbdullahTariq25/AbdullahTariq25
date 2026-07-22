@@ -1,253 +1,304 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Abdullah Tariq — Software Developer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://abdullah25.fly.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-171A1D?style=flat-square&logo=vercel&logoColor=F3B647" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abdullah-bin-tariq-25at"><img src="https://img.shields.io/badge/LINKEDIN-171A1D?style=flat-square&logo=linkedin&logoColor=F3B647" alt="LinkedIn" /></a>
-  <a href="mailto:abdullah.tariq.7654@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171A1D?style=flat-square&logo=gmail&logoColor=F3B647" alt="Email" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro"><img src="https://img.shields.io/badge/GOOGLE_PLAY-171A1D?style=flat-square&logo=googleplay&logoColor=F3B647" alt="Google Play" /></a>
-  <a href="https://orcid.org/0009-0003-2603-5359"><img src="https://img.shields.io/badge/ORCID-171A1D?style=flat-square&logo=orcid&logoColor=F3B647" alt="ORCID" /></a>
-</p>
+# ABDULLAH TARIQ
 
-<p align="center">
-  <strong>Software developer building production-oriented web platforms, mobile applications, AI-enabled SaaS products, backend systems, and television applications.</strong>
-</p>
+### SOFTWARE DEVELOPER
 
-<p align="center">
-  Currently working on <strong>startup products, client software, and independent engineering projects</strong> while pursuing a BS in Computer Science.
-  <br />
-  Open to <strong>software engineering, full-stack, React Native, AI application, graduate, and internship opportunities</strong> — remote, hybrid, or on-site.
-</p>
+<samp>FULL-STACK SYSTEMS · MOBILE PRODUCTS · AI ENGINEERING · TV PLATFORMS</samp>
+
+<br />
+
+[**Portfolio**](https://abdullah25.fly.dev/) · [**LinkedIn**](https://www.linkedin.com/in/abdullah-bin-tariq-25at) · [**Google Play**](https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro) · [**Email**](mailto:abdullah.tariq.7654@gmail.com) · [**ORCID**](https://orcid.org/0009-0003-2603-5359)
+
+</div>
 
 ---
 
-## Professional Snapshot
+> [!IMPORTANT]
+> **Open to software engineering opportunities** across full-stack development, React Native, AI applications, backend engineering, graduate programs, and internships — Lahore, hybrid, or remote.
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>2+ Years</strong><br /><sub>Practical development experience</sub></td>
-    <td align="center" width="25%"><strong>118 Tools</strong><br /><sub>Current NetPulse Pro architecture</sub></td>
-    <td align="center" width="25%"><strong>230+ Utilities</strong><br /><sub>Network Tools Hub</sub></td>
-    <td align="center" width="25%"><strong>4 Product Surfaces</strong><br /><sub>Web · Mobile · Backend · TV</sub></td>
-  </tr>
-</table>
+> **I do not use AI to avoid engineering. I use it to inspect faster, reason wider, implement deliberately, and validate harder.**
 
-I work across the complete product lifecycle: understanding requirements, planning architecture, developing frontend and backend systems, integrating APIs and AI models, testing cross-platform behavior, debugging production issues, and preparing reliable releases.
+## 01 / EXECUTIVE PROFILE
 
-My strongest areas are **Next.js**, **React Native**, **TypeScript**, **Java**, **Spring Boot**, **REST APIs**, **PostgreSQL**, **MongoDB**, and practical **LLM integration**. I also have hands-on experience with **Samsung Tizen**, **LG webOS**, Android TV, authentication systems, admin panels, deployment workflows, and release hardening.
+```yaml
+name: Abdullah Tariq
+location: Lahore, Pakistan
+role: Software Developer
+focus:
+  - Full-stack product engineering
+  - React Native and Android applications
+  - AI-integrated SaaS and developer tools
+  - Samsung Tizen, LG webOS, and Android TV
+education: BS Computer Science — in progress
+current_mode: Building startup products, client software, and independent systems
+availability: Open to engineering roles, internships, and graduate opportunities
+```
 
----
+| `118` | `294+` | `230+` | `9` |
+|:---:|:---:|:---:|:---:|
+| NetPulse Pro tools | Resume templates | Web utilities | DevReviewer AI workflows |
 
-## Featured Engineering Work
+I build products across the complete delivery cycle: requirements, architecture, frontend, backend, mobile, AI integration, databases, testing, debugging, deployment, and release hardening.
 
-### NetPulse Pro — Android Network Toolkit
-
-> A released React Native application designed for network engineers, IT administrators, developers, students, and technical users.
-
-- Current codebase registers **118 network, diagnostic, lookup, privacy, security, Wi-Fi, OSINT, and utility tools**.
-- Built around a unified, configuration-driven component architecture across the complete toolkit.
-- Includes SQLite history, persistent settings, native device/network integrations, multi-theme support, exports, and test infrastructure.
-- Uses React Navigation, Zustand, Expo modules, native TCP/UDP/BLE helpers, and TypeScript.
-
-**Stack:** `React Native` `Expo` `TypeScript` `Zustand` `SQLite` `Native Networking`
-
-[View on Google Play](https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro)
+My work is strongest where several engineering concerns meet — **complex product flows, cross-platform behavior, API-heavy systems, AI-assisted features, and production reliability**.
 
 ---
 
-### [PrepWithAI](https://github.com/AbdullahTariq25/PrepWithAI) — Interview Preparation SaaS
+## 02 / SELECTED SYSTEMS
 
-> A full-stack interview preparation platform for software developers, built around measurable practice and structured feedback.
+<details open>
+<summary><strong>NETPULSE PRO</strong> — 118-tool Android network platform</summary>
 
-- AI-led mock interviews covering DSA, system design, behavioral, frontend, backend, DevOps, mobile, ML, and leadership tracks.
-- Voice/video modes, Monaco coding workspace, company-specific preparation, progress analytics, career tools, and session reports.
-- Authentication, free/pro/team access models, subscription infrastructure, transactional email, analytics, and monitoring integrations.
+<br />
 
-**Stack:** `Next.js 16` `React 19` `TypeScript` `MongoDB` `Groq` `Stripe` `Auth.js`
+A released React Native toolkit for network engineers, IT administrators, developers, cybersecurity learners, and technical users.
 
----
+**Engineering scope**
 
-### DevReviewer — AI Developer Platform
+- 118 diagnostic, lookup, Wi-Fi, privacy, security, OSINT, and utility tools.
+- Unified configuration-driven component architecture across the full tool catalog.
+- SQLite history, persistent settings, exports, multi-theme support, and native integrations.
+- TCP, UDP, BLE, device, sensor, file-system, notification, and network capabilities.
+- Type-safe navigation, shared tool shells, performance optimization, and test infrastructure.
 
-> A multi-tool AI platform for code quality, testing, documentation, complexity analysis, and developer learning.
+**Technology**  
+<kbd>React Native</kbd> <kbd>Expo</kbd> <kbd>TypeScript</kbd> <kbd>Zustand</kbd> <kbd>SQLite</kbd> <kbd>Native Networking</kbd>
 
-- Combines **9 AI-powered workflows**, including code review, test generation, Big-O analysis, multi-file review, documentation, learning mode, auto-fix, contextual chat, and resume support.
-- Includes Monaco-based editing, review history, analytics, comparisons, public review links, authentication, and MongoDB persistence.
-- Detects bugs, security risks, anti-patterns, performance issues, and maintainability problems with structured quality scoring.
+[View on Google Play →](https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro)
 
-**Stack:** `Next.js` `TypeScript` `Llama 3.3 via Groq` `MongoDB` `NextAuth` `Monaco`
+</details>
 
-<sub>Repository is private while the product is being developed and hardened.</sub>
+<details open>
+<summary><strong>PREPWITHAI</strong> — full-stack interview preparation SaaS</summary>
 
----
+<br />
 
-### [ResumaBuilder](https://github.com/AbdullahTariq25/ResumaBuilder) — AI Resume Platform
+A production-oriented platform for structured technical and behavioral interview practice.
 
-> An ATS-focused resume builder combining structured editing, AI assistance, extensive templates, and multi-format exports.
+**Engineering scope**
 
-- Includes **294+ resume templates**, real-time ATS scoring, Gemini-powered content generation, optional authentication, and cloud/local persistence.
-- Supports PDF, Word, PNG, and text exports, email delivery, PWA installation, keyboard workflows, dark mode, and responsive editing.
-- Includes validation, security headers, API rate limiting, component tests, monitoring, and analytics integrations.
+- AI-led DSA, system design, behavioral, frontend, backend, DevOps, mobile, ML, and leadership tracks.
+- Voice and video practice, Monaco coding workspace, company preparation, progress analytics, and reports.
+- Authentication, plan enforcement, trials, Stripe billing, transactional email, analytics, and monitoring.
+- Deliberate-practice workflow: choose a target → practice → review evidence → improve → repeat.
 
-**Stack:** `Next.js 16` `React 19` `TypeScript` `Gemini` `MongoDB` `Zustand` `Vitest`
+**Technology**  
+<kbd>Next.js 16</kbd> <kbd>React 19</kbd> <kbd>TypeScript</kbd> <kbd>MongoDB</kbd> <kbd>Groq</kbd> <kbd>Stripe</kbd> <kbd>Auth.js</kbd>
 
----
+[Explore the repository →](https://github.com/AbdullahTariq25/PrepWithAI)
 
-### Vievio — Multi-Platform IPTV Product Ecosystem
+</details>
 
-> A full product ecosystem spanning user-facing applications, TV platforms, backend services, provider management, and administrative systems.
+<details>
+<summary><strong>RESUMABUILDER</strong> — AI-assisted ATS resume platform</summary>
 
-- Covers web, React Native mobile, Android TV, Samsung Tizen, LG webOS, user/reseller/admin panels, and backend services.
-- Includes M3U/M3U8 and Xtream provider workflows, activation and device management, playback recovery, source monitoring, and account infrastructure.
-- Developed with attention to remote-control navigation, constrained TV hardware, media playback stability, large playlist synchronization, and cross-platform UX.
+<br />
 
-**Stack:** `Next.js` `React Native` `Android` `Tizen` `webOS` `PostgreSQL` `Redis` `REST APIs`
+A resume-production system combining structured editing, AI assistance, large-scale templates, and export workflows.
+
+- 294+ ATS-oriented templates.
+- Gemini-powered content generation and real-time ATS analysis.
+- PDF, Word, PNG, and text exports.
+- Optional authentication, local/cloud persistence, email delivery, PWA support, and testing.
+
+**Technology**  
+<kbd>Next.js 16</kbd> <kbd>React 19</kbd> <kbd>TypeScript</kbd> <kbd>Gemini</kbd> <kbd>MongoDB</kbd> <kbd>Zustand</kbd> <kbd>Vitest</kbd>
+
+[Explore the repository →](https://github.com/AbdullahTariq25/ResumaBuilder)
+
+</details>
+
+<details>
+<summary><strong>DEVREVIEWER</strong> — multi-tool AI developer platform</summary>
+
+<br />
+
+An AI engineering workspace for code quality, testing, complexity analysis, documentation, and guided learning.
+
+- AI code review with bugs, security risks, anti-patterns, performance concerns, and quality scoring.
+- Unit-test generation, Big-O analysis, multi-file review, documentation, contextual chat, and auto-fix.
+- Monaco editing, review history, analytics, comparison, public sharing, authentication, and persistence.
+
+**Technology**  
+<kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>Llama 3.3</kbd> <kbd>Groq</kbd> <kbd>MongoDB</kbd> <kbd>NextAuth</kbd> <kbd>Monaco</kbd>
+
+<sub>Private while active development and hardening continue.</sub>
+
+</details>
+
+<details>
+<summary><strong>VIEVIO</strong> — multi-platform IPTV product ecosystem</summary>
+
+<br />
+
+A commercial system spanning consumer applications, television platforms, account infrastructure, provider management, and operational panels.
+
+- Web, React Native mobile, Android TV, Samsung Tizen, and LG webOS clients.
+- User, reseller, and admin surfaces with strict role separation.
+- M3U/M3U8 and Xtream providers, activation, device management, source monitoring, and long-sync workflows.
+- Playback recovery, remote-control navigation, constrained-TV performance, and release hardening.
+
+**Technology**  
+<kbd>Next.js</kbd> <kbd>React Native</kbd> <kbd>Android</kbd> <kbd>Tizen</kbd> <kbd>webOS</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd>
 
 <sub>Commercial repository is private.</sub>
 
----
-
-### Network Tools Hub — Large-Scale Web Utility Platform
-
-> A search-oriented developer platform containing more than 230 networking, conversion, diagnostic, and general-purpose tools.
-
-- Structured for large-scale tool discovery, reusable interfaces, responsive behavior, API integration, and global SEO coverage.
-- Developed through JFreaks Software Solutions as part of full-stack and product delivery work.
-
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `REST APIs` `SSR / SEO`
-
----
+</details>
 
 <details>
-<summary><strong>Additional selected projects</strong></summary>
+<summary><strong>NETWORK TOOLS HUB</strong> — 230+ web utilities</summary>
+
 <br />
 
-| Project | Engineering scope |
+A large-scale web platform for networking, development, conversion, diagnostics, and general technical utilities.
+
+- Reusable tool interfaces and data-driven content organization.
+- Responsive user experience, API integrations, SSR, and global SEO architecture.
+- Built through practical full-stack product work at JFreaks Software Solutions.
+
+**Technology**  
+<kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>REST APIs</kbd> <kbd>SSR</kbd> <kbd>SEO</kbd>
+
+</details>
+
+<details>
+<summary><strong>MORE PRODUCT WORK</strong></summary>
+
+<br />
+
+| Product | Engineering focus |
 |---|---|
-| **IPGeolocation.io Mobile App** | React Native contribution to a released GeoIP and network-utilities application with IP lookup, DNS, diagnostics, converters, and security-context tools. [Google Play](https://play.google.com/store/apps/details?id=io.ipgeolocation.app) |
-| **HalalApp / HalalCheck** | Android product using barcode/QR scanning, OCR, E-code handling, offline storage, multilingual content, and ingredient-checking workflows. |
-| **Domain Matching System** | Java and Spring Boot matching pipeline using exact, substring, abbreviation, scoring, and CSV-processing rules. |
-| **Library Management System** | Core Java, JDBC, and PostgreSQL application with authentication, admin/user roles, catalog management, issue, and return workflows. [Repository](https://github.com/AbdullahTariq25/LibraryManagementSystem25) |
-| **Anonymous Feedback Platform** | Full-stack feedback product with authentication, anonymous messaging, moderation-oriented flows, and AI-assisted suggestions. |
+| **IPGeolocation.io Mobile App** | React Native contribution to a released GeoIP and network-utility app. [Google Play →](https://play.google.com/store/apps/details?id=io.ipgeolocation.app) |
+| **HalalCheck** | Barcode and QR scanning, OCR ingredient analysis, E-code handling, Room storage, and multilingual Android flows. |
+| **Domain Matching System** | Java and Spring Boot matching pipeline using exact, substring, abbreviation, scoring, and CSV rules. |
+| **Library Management System** | Core Java, JDBC, PostgreSQL, authentication, roles, catalog, issue, and return workflows. [Repository →](https://github.com/AbdullahTariq25/LibraryManagementSystem25) |
+| **Anonymous Feedback Platform** | Authentication, anonymous messaging, moderation flows, persistence, and AI-assisted suggestions. |
 
 </details>
 
 ---
 
-## Technical Capability
+## 03 / AI-ASSISTED ENGINEERING
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Frontend & Product UI</strong><br /><br />
-      Next.js · React · Vue.js · TypeScript · JavaScript<br />
-      Tailwind CSS · Responsive UI · SSR · Accessibility<br />
-      State management · Design systems · Performance
-    </td>
-    <td valign="top" width="50%">
-      <strong>Mobile & Television</strong><br /><br />
-      React Native · Expo · Android Java/XML<br />
-      Android TV · Samsung Tizen · LG webOS<br />
-      Remote navigation · Native modules · Media UX
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Backend & Data</strong><br /><br />
-      Java · Spring Boot · Node.js · REST APIs<br />
-      PostgreSQL · MongoDB · MySQL · Redis · SQLite<br />
-      Authentication · Admin systems · API integration
-    </td>
-    <td valign="top" width="50%">
-      <strong>AI, Quality & Delivery</strong><br /><br />
-      Groq · Llama · Gemini · LLM API integration<br />
-      Prompt design · Structured outputs · AI evaluation<br />
-      GitHub Actions · Docker · Vercel · Testing · QA
-    </td>
-  </tr>
-</table>
+```text
+CONTEXT
+   ↓
+SOURCE REVIEW → CONSTRAINT MAPPING → IMPLEMENTATION PLAN
+   ↓                                      ↓
+CODEBASE CHANGES ← ITERATIVE BUILD ← AI-ASSISTED EXECUTION
+   ↓
+TYPE CHECKS → TESTS → BUILDS → DEVICE / RUNTIME VALIDATION
+   ↓
+REVIEW → HARDEN → DOCUMENT → SHIP
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,vue,tailwind,nodejs,spring,androidstudio,mongodb,postgres,mysql,redis,docker,git,github,githubactions,vercel,linux,figma,postman" alt="Technical skills" />
-</p>
+I treat AI as an **engineering orchestration layer**, not an automatic answer generator.
+
+- I begin with source inspection instead of guessing file contents.
+- I define non-negotiable constraints before implementation.
+- I separate planning, code changes, validation, and release review.
+- I use AI for codebase navigation, architecture comparison, refactoring, debugging, documentation, and test design.
+- I verify generated work through diffs, type checks, builds, tests, logs, simulators, and physical devices where required.
+- I preserve working system boundaries instead of rewriting stable architecture for visual novelty.
+
+This approach allows me to direct AI across large codebases while keeping the output **traceable, technically grounded, and production-aware**.
 
 ---
 
-## Experience
+## 04 / ENGINEERING RANGE
 
-| Period | Position | Organization / Context | Selected contribution |
-|---|---|---|---|
-| **2025 – Present** | **Independent Software Developer** | Startup products and client projects | Building and improving full-stack platforms, mobile apps, AI-enabled products, TV applications, APIs, admin systems, and production deployments, including work delivered through Taknea Solutions. |
-| **Aug 2025 – Feb 2026** | **Software Developer Intern** | JFreaks Software Solutions | React Native application delivery, Next.js platforms, APIs, SSR, debugging, performance work, SEO, Git collaboration, and production release support. |
-| **Feb 2026 – Apr 2026** | **AI Data Quality Analyst / Annotator — Contract** | Shenzhen-Hong Kong Smart Hub · Remote | Dataset annotation, validation, quality review, instruction-following checks, consistency analysis, and model-training support. |
-| **Nov 2024 – Jun 2025** | **Research & Software Project Contributor** | Shenzhen Institute of Information Technology | Vue.js and TypeScript project components, technical documentation, software coursework, and research-oriented project support during international study. |
-| **Feb 2024 – Aug 2024** | **Frontend Developer Intern** | JFreaks Software Solutions | Responsive interfaces, JavaScript, frontend implementation, Java-related tasks, API integration, debugging, Git, and practical software-development workflows. |
-
----
-
-## Education
-
-<table>
-  <tr>
-    <td width="32%"><strong>BS Computer Science</strong></td>
-    <td width="44%">Virtual University of Pakistan</td>
-    <td>Oct 2025 – Expected 2029</td>
-  </tr>
-  <tr>
-    <td><strong>Sino-Pak Dual Diploma / DAE</strong><br /><sub>Software Technology · Grade A</sub></td>
-    <td>Shenzhen Institute of Information Technology + PBTE / Government College of Technology, Lahore</td>
-    <td>2022 – 2025</td>
-  </tr>
-  <tr>
-    <td><strong>Matriculation</strong><br /><sub>Computer Science / Science</sub></td>
-    <td>Unique Group of Institutions · BISE Lahore</td>
-    <td>2020 – 2022</td>
-  </tr>
-</table>
-
-**International background:** Studied on campus in Shenzhen, China, from November 2024 to June 2025. Mandarin Chinese communication is approximately HSK 3 level.
-
----
-
-## Certifications & Training
-
-| Area | Selected credentials |
+| Product engineering | Mobile and television |
 |---|---|
-| **AI & Prompting** | Google Prompting Essentials · Claude Code in Action — Anthropic · AI Trainer / Data Annotation Training |
-| **Software & Security** | Ethical Hacker — Cisco · JavaScript Essentials 1 & 2 — Cisco · Python Essentials 1 & 2 — Cisco · HTML & CSS Essentials — Cisco |
-| **Professional Skills** | Agile Project Management — HP Foundation · Data Science & Analytics — HP Foundation |
-| **Earlier Training** | Front-End Development — JFreaks Software Solutions · Python — Tang International Education Group · Chinese Language Program |
+| <kbd>Next.js</kbd> <kbd>React</kbd> <kbd>Vue.js</kbd> <kbd>TypeScript</kbd><br><br>Responsive interfaces, SaaS products, dashboards, design systems, accessibility, SSR, performance, and product UX. | <kbd>React Native</kbd> <kbd>Expo</kbd> <kbd>Android</kbd> <kbd>Tizen</kbd> <kbd>webOS</kbd><br><br>Native modules, remote navigation, device APIs, media interfaces, offline state, cross-platform delivery, and store releases. |
+
+| Backend and data | AI, quality, and delivery |
+|---|---|
+| <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Node.js</kbd> <kbd>REST APIs</kbd><br><br>PostgreSQL, MongoDB, MySQL, Redis, SQLite, authentication, admin systems, provider APIs, and data modeling. | <kbd>Groq</kbd> <kbd>Llama</kbd> <kbd>Gemini</kbd> <kbd>GitHub Actions</kbd><br><br>LLM integration, structured prompting, AI evaluation, testing, Docker, Vercel, debugging, QA, monitoring, and release hardening. |
 
 ---
 
-## GitHub Engineering Activity
+## 05 / EXPERIENCE
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahTariq25&theme=github_dark" alt="GitHub contribution overview" />
-</p>
+**Independent Software Developer** · Startup products and client systems  
+`2025 — Present`
 
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdullahTariq25&theme=github_dark" alt="GitHub statistics" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahTariq25&theme=github_dark" alt="Repositories by language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahTariq25&theme=github_dark" alt="Most committed languages" />
-</p>
+Building web platforms, mobile applications, AI-enabled products, TV applications, backend APIs, admin systems, and production deployments, including work delivered through Taknea Solutions.
+
+**Software Developer Intern** · JFreaks Software Solutions  
+`Aug 2025 — Feb 2026`
+
+React Native delivery, Next.js platforms, API integration, SSR, debugging, performance optimization, SEO, Git collaboration, and release support.
+
+**AI Data Quality Analyst / Annotator — Contract** · Shenzhen-Hong Kong Smart Hub  
+`Feb 2026 — Apr 2026` · Remote
+
+Dataset annotation, validation, quality review, instruction-following checks, consistency analysis, and model-training support.
+
+**Software Project Contributor** · Shenzhen Institute of Information Technology  
+`Nov 2024 — Jun 2025` · Shenzhen, China
+
+Vue.js and TypeScript project components, technical documentation, software coursework, and research-oriented implementation support during international study.
+
+**Frontend Developer Intern** · JFreaks Software Solutions  
+`Feb 2024 — Aug 2024`
+
+Responsive interfaces, JavaScript, API integration, debugging, Git, Java-related tasks, and practical software-development workflows.
 
 ---
 
-## Opportunities & Contact
+## 06 / EDUCATION & CREDENTIALS
 
-I am interested in roles where I can contribute to real product development while continuing to grow through strong engineering practices, technical mentorship, and meaningful user problems.
+| Education | Status |
+|---|---|
+| **BS Computer Science** — Virtual University of Pakistan | Oct 2025 — Expected 2029 |
+| **Sino-Pak Dual Diploma / DAE in Software Technology — Grade A** — SZIIT Shenzhen + PBTE / GCT Lahore | Completed 2025 |
+| **Matriculation in Computer Science / Science** — Unique Group of Institutions, BISE Lahore | Completed 2022 |
 
-**Roles of interest:** Software Engineer · Full-Stack Developer · React Native Developer · AI Application Developer · Junior Backend Developer · Graduate / Internship Programs
+**International background:** On-campus study in Shenzhen, China, from November 2024 to June 2025. Mandarin Chinese communication at approximately HSK 3 level.
 
-**Work modes:** Lahore on-site or hybrid · Pakistan remote · International remote opportunities
+<details>
+<summary><strong>Selected certifications and training</strong></summary>
 
-<p align="center">
-  <a href="mailto:abdullah.tariq.7654@gmail.com"><img src="https://img.shields.io/badge/EMAIL-abdullah.tariq.7654%40gmail.com-F3B647?style=for-the-badge&labelColor=171A1D" alt="Email Abdullah Tariq" /></a>
-  <a href="https://www.linkedin.com/in/abdullah-bin-tariq-25at"><img src="https://img.shields.io/badge/LINKEDIN-Abdullah_Tariq-F3B647?style=for-the-badge&labelColor=171A1D" alt="LinkedIn" /></a>
-</p>
+<br />
 
-<p align="center">
-  <sub>Lahore, Pakistan · English · Urdu · Mandarin Chinese</sub>
-</p>
+- Google Prompting Essentials.
+- Claude Code in Action — Anthropic.
+- Ethical Hacker — Cisco Networking Academy.
+- JavaScript Essentials 1 & 2 — Cisco Networking Academy.
+- Python Essentials 1 & 2 — Cisco Networking Academy.
+- HTML & CSS Essentials — Cisco Networking Academy.
+- Agile Project Management — HP Foundation.
+- Data Science & Analytics — HP Foundation.
+- AI Trainer / Data Annotation Training — China-Pakistan TVET program.
+- Front-End Development — JFreaks Software Solutions.
+- Python training — Tang International Education Group.
+- Chinese Language Program.
+
+</details>
+
+---
+
+## 07 / CURRENT DIRECTION
+
+```text
+BUILDING      startup products, client software, and independent systems
+IMPROVING     architecture, product UX, release quality, and cross-platform reliability
+LEARNING      computer science, scalable systems, AI evaluation, and stronger engineering practice
+SEEKING       software engineering roles with real products, mentorship, and meaningful responsibility
+```
+
+---
+
+## 08 / CONTACT
+
+<div align="center">
+
+### Let us build something that survives the demo.
+
+[**abdullah.tariq.7654@gmail.com**](mailto:abdullah.tariq.7654@gmail.com)  
+[**LinkedIn**](https://www.linkedin.com/in/abdullah-bin-tariq-25at) · [**Portfolio**](https://abdullah25.fly.dev/) · [**Google Play**](https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro)
+
+<sub>Lahore, Pakistan · English · Urdu · Mandarin Chinese</sub>
+
+</div>
