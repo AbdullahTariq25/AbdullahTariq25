@@ -1,18 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:171717,55:354238,100:7A8F5B&text=Abdullah%20Tariq&fontColor=F5F1E8&fontSize=56&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Product%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Abdullah Tariq — Software Developer" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=7A8F5B&center=true&vCenter=true&width=820&lines=Full-stack+products+%E2%80%A2+Mobile+apps+%E2%80%A2+AI+systems;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Backend+APIs;Samsung+Tizen+%E2%80%A2+LG+webOS+%E2%80%A2+Android+TV;Source-first+engineering+%E2%80%A2+Human-verified+delivery" alt="Engineering focus" />
-</a>
+<img width="100%" src="./assets/reliable-profile-header.svg" alt="Abdullah Tariq — Software Developer and Product Engineer" />
 
 [**Portfolio**](https://abdullah25.fly.dev/) · [**LinkedIn**](https://www.linkedin.com/in/abdullah-bin-tariq-25at) · [**Google Play**](https://play.google.com/store/apps/details?id=com.abdullahtariq.netpulsepro) · [**Email**](mailto:abdullah.tariq.7654@gmail.com) · [**ORCID**](https://orcid.org/0009-0003-2603-5359)
-
-<br />
-
-<img src="https://img.shields.io/badge/Lahore-Pakistan-354238?style=flat-square" alt="Lahore, Pakistan" />
-<img src="https://img.shields.io/badge/Open_to-Engineering_Roles-7A8F5B?style=flat-square" alt="Open to engineering roles" />
-<img src="https://img.shields.io/badge/Focus-Complete_Product_Systems-B58B4C?style=flat-square" alt="Complete product systems" />
 
 </div>
 
@@ -41,16 +31,15 @@ I am a software developer who builds **complete product systems**, not isolated 
 
 My public repositories demonstrate full-stack and AI implementation. My released and commercial systems demonstrate delivery across stores, devices, backend infrastructure, and operational environments.
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="./assets/reliable-featured-work.svg" alt="Featured repositories: PrepWithAI and ResumaBuilder" />
+</p>
 
-<a href="https://github.com/AbdullahTariq25/PrepWithAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahTariq25&repo=PrepWithAI&hide_border=true&bg_color=00000000&title_color=7A8F5B&text_color=8B949E&icon_color=B58B4C" alt="PrepWithAI repository" />
-</a>
-<a href="https://github.com/AbdullahTariq25/ResumaBuilder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdullahTariq25&repo=ResumaBuilder&hide_border=true&bg_color=00000000&title_color=7A8F5B&text_color=8B949E&icon_color=B58B4C" alt="ResumaBuilder repository" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/AbdullahTariq25/PrepWithAI"><strong>Open PrepWithAI →</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/AbdullahTariq25/ResumaBuilder"><strong>Open ResumaBuilder →</strong></a>
+</p>
 
 ### Product portfolio
 
@@ -140,7 +129,7 @@ CONTEXT → SOURCE REVIEW → CONSTRAINTS → IMPLEMENTATION → DIFF REVIEW →
 The stack below connects directly to the product work above—from interfaces and native applications to APIs, persistence, AI, infrastructure, and release verification.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,java,spring,android,postgres,mongodb,redis,sqlite,docker,git,github,linux,vercel&perline=9" alt="Technology stack" />
+  <img width="100%" src="./assets/reliable-tech-stack.svg" alt="Technology stack used across shipped product work" />
 </p>
 
 <table>
@@ -158,12 +147,11 @@ The stack below connects directly to the product work above—from interfaces an
 
 ## GitHub activity
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="./assets/reliable-github-overview.svg" alt="GitHub engineering overview" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdullahTariq25&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=7A8F5B&text_color=8B949E&icon_color=B58B4C&ring_color=7A8F5B" alt="Abdullah Tariq GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahTariq25&layout=compact&hide_border=true&bg_color=00000000&title_color=7A8F5B&text_color=8B949E" alt="Most used languages" />
-
-</div>
+The native contribution graph, repository history, releases, and source code remain available directly on my GitHub profile and repositories without depending on external statistics services.
 
 ---
 
