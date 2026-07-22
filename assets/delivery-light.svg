@@ -1,0 +1,63 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="36" y1="12" x2="1160" y2="218" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBFAF6"/>
+      <stop offset="1" stop-color="#F3F0E8"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="122" y1="0" x2="1078" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3F6F62"/>
+      <stop offset="0.76" stop-color="#3F6F62"/>
+      <stop offset="1" stop-color="#7B5D2F"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#D5D1C7" stroke-opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="230" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="228" rx="23" stroke="#D5D1C7"/>
+  <rect width="1200" height="230" rx="24" fill="url(#grid)" opacity="0.62"/>
+
+  <text x="42" y="38" fill="#3F6F62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.1">AI-DIRECTED DELIVERY MODEL</text>
+  <text x="42" y="67" fill="#1F262D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="750">AI accelerates the work. Engineering controls the outcome.</text>
+  <text x="1158" y="38" text-anchor="end" fill="#59636D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.4">HUMAN JUDGMENT / EVERY STAGE</text>
+
+  <path d="M128 126H1072" stroke="url(#rail)" stroke-width="2"/>
+
+  <g transform="translate(128 126)">
+    <circle r="19" fill="#EEEAE0" stroke="#3F6F62" stroke-width="2"/>
+    <text x="0" y="4" text-anchor="middle" fill="#294C42" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">01</text>
+    <text x="0" y="48" text-anchor="middle" fill="#1F262D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Context</text>
+    <text x="0" y="68" text-anchor="middle" fill="#59636D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Read source and history</text>
+  </g>
+
+  <g transform="translate(364 126)">
+    <circle r="19" fill="#EEEAE0" stroke="#3F6F62" stroke-width="2"/>
+    <text x="0" y="4" text-anchor="middle" fill="#294C42" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">02</text>
+    <text x="0" y="48" text-anchor="middle" fill="#1F262D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Constraints</text>
+    <text x="0" y="68" text-anchor="middle" fill="#59636D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Map risk and boundaries</text>
+  </g>
+
+  <g transform="translate(600 126)">
+    <circle r="19" fill="#EEEAE0" stroke="#3F6F62" stroke-width="2"/>
+    <text x="0" y="4" text-anchor="middle" fill="#294C42" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">03</text>
+    <text x="0" y="48" text-anchor="middle" fill="#1F262D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Implementation</text>
+    <text x="0" y="68" text-anchor="middle" fill="#59636D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Direct, review, iterate</text>
+  </g>
+
+  <g transform="translate(836 126)">
+    <circle r="19" fill="#EEEAE0" stroke="#3F6F62" stroke-width="2"/>
+    <text x="0" y="4" text-anchor="middle" fill="#294C42" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">04</text>
+    <text x="0" y="48" text-anchor="middle" fill="#1F262D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Verification</text>
+    <text x="0" y="68" text-anchor="middle" fill="#59636D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Diff, test, build, device</text>
+  </g>
+
+  <g transform="translate(1072 126)">
+    <circle r="19" fill="#EEEAE0" stroke="#7B5D2F" stroke-width="2"/>
+    <text x="0" y="4" text-anchor="middle" fill="#7B5D2F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="700">05</text>
+    <text x="0" y="48" text-anchor="middle" fill="#1F262D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Release</text>
+    <text x="0" y="68" text-anchor="middle" fill="#59636D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10">Harden and document</text>
+  </g>
+
+  <text x="42" y="211" fill="#59636D" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" letter-spacing="1.1">SOURCE-FIRST · CONSTRAINT-AWARE · EVIDENCE-BASED · PRODUCTION-FOCUSED</text>
+</svg>
