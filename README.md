@@ -23,6 +23,60 @@
 
 <table>
   <tr>
+    <td width="42%" valign="top">
+<pre>
+=&lt;-+/{}00+=.=000011###@@#}&gt;&gt;///{/{/&lt;&lt;+
++=.+/{}0{=-=}1111##@@@@@@1{&gt;///{&lt;+++&lt;+
+{&gt;=&lt;{}}0=={}101111@@@@@@@@0&gt;///{+--+++
+&gt;&gt;&gt;&gt;{}}0{010011111#1#@@@@@@///{{&gt;&lt;&lt;&lt;=+
+:--/101#1101#11110&gt;&lt;}#@@@@@}/{///&gt;&gt;==+
+::.{@@@@11#@@@@#{:.=&gt;}1@@@@//{{{/&lt;=-=+
+   &gt;@@@101#@@1}/:   :+}0#@#&gt;{//{/=..=+
+   &gt;@10{011@@= -&gt;- :/+=+1@1&gt;&gt;///+.  ==
+-- /1///}}1@}.:=-: ::+= &gt;@0&gt;/{{{+--:==
+:=&gt;}{{/&gt;/&gt;&gt;++      ..   +/&gt;&gt;{{{{=::-==
+=-&gt;}}0&gt;-..:.=           &lt;=&lt;&gt;{{//  ==-=
+  &lt;000/=---:+.     .   .&gt;&lt;&gt;/{/{/-=+:==
+ -{0110&lt;----&lt;=   :==-. -}+&lt;/{{{{0/}&lt;-=
+.=&lt;/&gt;&lt;//&gt;&lt;&lt;&lt;/{  :::--../#1///{{{+=/&gt;-=
+=:---:+&lt;&gt;&gt;//&gt;}/   :.  &lt;#}11/{/&gt;/.:=+-=
+&lt;+&lt;+=+&gt;&lt;+///{{}{=::.-{10}01{{/&gt;{=.:+==
+&gt;&lt;===&lt;&gt;&lt;&lt;&lt;/}/}=&lt;#111#1={0}1}{&gt;/}{&lt;&lt;+-=
+&lt;&lt;==++=+&lt;+0{/0&lt; =&gt;&gt;&gt;&lt;. {}{}0//}}{&gt;+=-=
+-=++=-+&gt;+&lt;}{&gt;}&gt;    .  .}{/{0/{}}{/&lt;=-=
+--+=-&lt;&gt;&lt;+&gt;/&gt;/{/       :0//{}/}}{{{{&gt;=-
+=:--+&lt;&lt;&gt;+/{//{{       =0//{{{}{{{{{/&gt;=
+++=&lt;&gt;&gt;&gt;&lt;+{{//{/+     :&gt;}///{{}{{/{{/{/
+==+//&gt;&gt;&lt;&gt;{///100&lt;   ./01{&gt;{{}}{/{}/{{/
+==&gt;///&gt;&gt;/{//}10}0&lt; .{011///{0{//{}/}{/
+&lt;&lt;/&gt;/{&lt;&gt;{{//0}////&lt;{0}{}{//{1{//}{/{/{
+&lt;&lt;///{/&gt;{{//0{////0}{/{}{/&gt;}0///}/{{/{
+&gt;&gt;/{////{{/{0{///{{/{//}}&gt;&gt;0}//{{/{///
+&gt;/&gt;{////{{/}0{///{//{//{0&gt;&gt;0{/&gt;{//{///
+&gt;/&lt;}{///{{/00{///{//{{/{0//0/&gt;/{//{&gt;//
+&gt;/&gt;{}//{{/{0}{///{{/{}{{}{&gt;0/&gt;/{/{/&gt;//
+//&gt;/}//{{{}1}{/////{/}}}}}/}/&gt;///}/&gt;&gt;{
+&gt;/&gt;/}{{{{/0#}{{//{{/}{0}}0/{&gt;&gt;///{/&gt;/{
+&gt;/&gt;/{}{}}{1#}{{{{{{{{}{0}1{{/&gt;{//}&gt;&gt;//
+&gt;/&gt;/{}{}{{@@0}{{{{{/{}}}00}/{&gt;{//}/&gt;/&gt;
+</pre>
+      <p align="center"><sub>Portrait rendered entirely from <code>&lt;&gt;</code> <code>{}</code> <code>01</code> <code>#</code> <code>@</code> glyphs</sub></p>
+    </td>
+    <td width="58%" valign="top">
+      <p><sub>ABOUT / PRIMARY PROFILE</sub></p>
+      <h2>Software developer building complete product systems.</h2>
+      <p>I build production-oriented software across <strong>web, mobile, backend, AI, and television platforms</strong>. My strongest work appears where complex product flows, APIs, constrained devices, cross-platform reliability, and carefully directed AI-assisted development meet.</p>
+      <hr />
+      <p><strong>01 · Product engineering</strong><br /><sub>Full-stack SaaS, responsive interfaces, APIs, dashboards, and production deployment.</sub></p>
+      <p><strong>02 · Mobile and television</strong><br /><sub>React Native, Android, Samsung Tizen, LG webOS, and Android TV delivery.</sub></p>
+      <p><strong>03 · AI-directed development</strong><br /><sub>Source inspection, constraint mapping, implementation direction, testing, and evidence-based release.</sub></p>
+      <p><strong>04 · Current direction</strong><br /><sub>Open to engineering roles, internships, graduate opportunities, and meaningful product work.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center" width="25%"><strong>FULL-STACK</strong><br /><sub>Products and SaaS</sub></td>
     <td align="center" width="25%"><strong>MOBILE</strong><br /><sub>React Native and Android</sub></td>
     <td align="center" width="25%"><strong>AI SYSTEMS</strong><br /><sub>LLM features and evaluation</sub></td>
@@ -32,8 +86,6 @@
 
 > [!NOTE]
 > **Open to software engineering opportunities** in full-stack development, React Native, AI applications, backend engineering, graduate programs, and internships — Lahore, hybrid, or remote.
-
-I build production-oriented software across **web, mobile, backend, AI, and television platforms**. My strongest work appears where several concerns meet: complex product flows, API-heavy systems, constrained devices, cross-platform reliability, and carefully directed AI-assisted development.
 
 ---
 
